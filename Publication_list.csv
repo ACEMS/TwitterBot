@@ -1,0 +1,435 @@
+scholarID,title,author,journal,number,cites,year,cid,pubid
+H4x65KoAAAAJ,Likelihood-informed dimension reduction for nonlinear inverse problems,"T Cui, J Martin, YM Marzouk, A Solonen, A Spantini",Inverse Problems,"30 (11), 114015",76,2014,15782106703982610813,WF5omc3nYNoC
+H4x65KoAAAAJ,Bayesian calibration of a large‐scale geothermal reservoir model by a new adaptive delayed acceptance Metropolis Hastings algorithm,"T Cui, C Fox, MJ O'sullivan",Water Resources Research,47 (10),76,2011,14736775736675917558,d1gkVwhDpl0C
+H4x65KoAAAAJ,Data‐driven model reduction for the Bayesian solution of inverse problems,"T Cui, YM Marzouk, KE Willcox",International Journal for Numerical Methods in Engineering,"102 (5), 966-990",58,2015,"8593986444552508837,12409066536530170987",_OXeSy2IsFwC
+H4x65KoAAAAJ,Dimension-independent likelihood-informed MCMC,"T Cui, KJH Law, YM Marzouk",Journal of Computational Physics,"304 (1), 109-137",55,2016,"8941470427203034051,1043936957232643915",9c2xU6iGI7YC
+H4x65KoAAAAJ,Optimal low-rank approximations of Bayesian linear inverse problems,"A Spantini, A Solonen, T Cui, J Martin, L Tenorio, Y Marzouk",SIAM Journal on Scientific Computing,"37 (6), A2451–A2487",52,2015,14386056971639165078,_FxGoFyzp5QC
+H4x65KoAAAAJ,Multifidelity importance sampling,"B Peherstorfer, T Cui, Y Marzouk, K Willcox",Computer Methods in Applied Mechanics and Engineering,"300, 490-509",30,2016,2437956253788187100,fbc8zXXH2BUC
+H4x65KoAAAAJ,Scalable posterior approximations for large-scale Bayesian inverse problems via likelihood-informed parameter and state reduction,"T Cui, YM Marzouk, KE Willcox",Journal of Computational Physics,"315, 363－387",14,2016,10413277737945064897,ZzlSgRqYykMC
+H4x65KoAAAAJ,Goal-oriented optimal approximations of Bayesian linear inverse problems,"A Spantini, T Cui, K Willcox, L Tenorio, Y Marzouk",SIAM Journal on Scientific Computing,"39 (5), S167-S196",11,2017,2930865524664539631,6yz0xqPARnAC
+H4x65KoAAAAJ,On dimension reduction in Gaussian filters,"A Solonen, T Cui, J Hakkarainen, Y Marzouk",Inverse Problems,"32 (4), 045003",11,2016,13842466333842610710,Ehil0879vHcC
+H4x65KoAAAAJ,Bayesian calibration of geothermal reservoir models via Markov Chain Monte Carlo,T Cui,PhD Thesis-University of Auckland,,11,2010,11467210937812489910,u-x6o8ySG0sC
+H4x65KoAAAAJ,Adaptive Approximation Error Models for Efficient Uncertainty Quantification with Application to Multiphase Subsurface Fluid Flow,"T Cui, C Fox, MJ O'Sullivan",arXiv preprint arXiv:,:1809.03176,9,2018,"878210709517570219,17144617209680575471,717876347077046917",cK4Rrx0J3m0C
+H4x65KoAAAAJ,Uncertainty quantification for stream depletion tests,"T Cui, ND Ward",Journal of Hydrologic Engineering,"18 (12), 1581-1590",8,2012,10129941253556578752,UeHWp8X0CEIC
+H4x65KoAAAAJ,Characterization of Parameters for a Spatially Heterogenous Aquifer from Pumping Test Data,"T Cui, N Dudley Ward, J Kaipio",Journal of Hydrologic Engineering,"19 (6), 1203-1213",6,2013,5229066611642433715,W7OEmFMy1HYC
+H4x65KoAAAAJ,Using Parallel MCMC Sampling to Calibrate a Computer Model of a Geothermal Reservoir,"T Cui, C Fox, GK Nicholls, MJ O’Sullivan","Report, Univeristy of Auckland, Faculty of Engineering",,5,2011,"7714857879902657974,17877278871486959848",qjMakFHDy7sC
+H4x65KoAAAAJ,Bayesian Inverse Problems with  Priors: A Randomize-Then-Optimize Approach,"Z Wang, JM Bardsley, A Solonen, T Cui, YM Marzouk",SIAM Journal on Scientific Computing,"39 (5), S140-S166",4,2017,3571887816787139361,0CzhzZyukY4C
+H4x65KoAAAAJ,Bayesian inference for geothermal model calibration,T Cui,University of Auckland,,3,2005,8650507965563456071,u5HHmVD_uO8C
+H4x65KoAAAAJ,Certified dimension reduction in nonlinear Bayesian inverse problems,"O Zahm, T Cui, K Law, A Spantini, Y Marzouk",arXiv preprint arXiv:,:1807.03712,2,2018,10696877589810618752,v1_lew4L6wgC
+H4x65KoAAAAJ,A Stein variational Newton method,"G Detommaso, T Cui, Y Marzouk, R Scheichl, A Spantini",arXiv preprint arXiv:,:1806.03085,1,2018,2381223671647654052,U4n9YNQMCAIC
+H4x65KoAAAAJ,Pragmatic approach to calibrating distributed parameter groundwater models from pumping test data using adaptive delayed acceptance MCMC,"T Cui, ND Ward, S Eveson, T Lähivaara",Journal of Hydrologic Engineering,"21 (2), 06015011",1,2015,7452585740024153535,nZcligLrVowC
+H4x65KoAAAAJ,Optimization Methods for Inverse Problems,"N Ye, F Roosta-Khorasani, T Cui",arXiv preprint arXiv:,:1712.00154,0,2017,NA,zCSUwVk65WsC
+H4x65KoAAAAJ,Joint Model and Parameter Dimension Reduction for Bayesian Inversion Applied to an Ice Sheet Flow Problem,"O Ghattas, N Petra, T Cui, Y Marzouk, P Benjamin, K Willcox",AGU Fall Meeting Abstracts,,0,2016,NA,ubry08Y2EpUC
+H4x65KoAAAAJ,Subspace acceleration for large-scale inverse problems,T Cui,,,0,NA,NA,kVjdVfd2voEC
+H4x65KoAAAAJ,A Metropolis-Hastings-within-Gibbs Sampler for Nonlinear Hierarchical-Bayesian Inverse Problems,"JM Bardsley, T Cui",,,0,NA,NA,BzfGm06jWhQC
+TJj4w-gAAAAJ,Decomposition of integer matrices and multileaf collimator sequencing,"D Baatar, HW Hamacher, M Ehrgott, GJ Woeginger",Discrete Applied Mathematics,"152 (1-3), 6-34",93,2005,9538989243812759985,u5HHmVD_uO8C
+TJj4w-gAAAAJ,Towards objective measures of algorithm performance across instance space,"K Smith-Miles, D Baatar, B Wreford, R Lewis",Computers & Operations Research,"45, 12-24",61,2014,1202070022881547225,qjMakFHDy7sC
+TJj4w-gAAAAJ,Reformulations and computational results for uncapacitated single and multiple allocation hub covering problems,"AT Ernst, H Jiang, M Krishnamoorthy, D Baatar, C Judge","Unpublished Report, CSIRO Mathematical and Information Sciences",,60,2005,1505424858972955446,5nxA0vEk-isC
+TJj4w-gAAAAJ,Algorithms for large scale shift minimisation personnel task scheduling problems,"M Krishnamoorthy, AT Ernst, D Baatar",European Journal of Operational Research,"219 (1), 34-48",52,2012,8324525078978991731,9yKSN-GCB0IC
+TJj4w-gAAAAJ,Advancing equitability in multiobjective programming,"D Baatar, MM Wiecek",Computers & Mathematics with Applications,"52 (1-2), 225-234",43,2006,17530370548728601217,2osOgNQ5qMEC
+TJj4w-gAAAAJ,Minimum cardinality matrix decomposition into consecutive-ones matrices: CP and IP approaches,"D Baatar, N Boland, S Brand, PJ Stuckey",International Conference on Integration of Artificial Intelligence (AI) and …,,41,2007,1769487023044692745,WF5omc3nYNoC
+TJj4w-gAAAAJ,Minimum cardinality matrix decomposition into consecutive-ones matrices: CP and IP approaches,"D Baatar, N Boland, S Brand, PJ Stuckey",International Conference on Integration of Artificial Intelligence (AI) and …,,41,2007,1769487023044692745,d1gkVwhDpl0C
+TJj4w-gAAAAJ,New LP model for multileaf collimators in radiation therapy planning,"D Baatar, H Hamacher",Proceedings of the operations research peripatetic postgraduate programme …,,20,2003,8247782158422120021,UeHWp8X0CEIC
+TJj4w-gAAAAJ,"Matrix Decomposition with Times and Cardinality Objectives: Theory, Algorithms and Application to Multileaf Collimator Sequencing",D Baatar,,,11,2005,2856380871464684931,IjCSPb-OGe4C
+TJj4w-gAAAAJ,CP and IP approaches to cancer radiotherapy delivery optimization,"D Baatar, N Boland, S Brand, PJ Stuckey",Constraints,"16 (2), 173-194",10,2011,11316397081681891608,_FxGoFyzp5QC
+TJj4w-gAAAAJ,CP and IP approaches to cancer radiotherapy delivery optimization,"D Baatar, N Boland, S Brand, PJ Stuckey",Constraints,"16 (2), 173-194",10,2011,11316397081681891608,zYLM7Y9cAGgC
+TJj4w-gAAAAJ,Instance spaces for machine learning classification,"MA Munoz, L Villanova, D Baatar, K Smith-Miles",Machine Learning,"107 (1), 109-147",8,2018,6196740612266353941,LkGwnXOMwfcC
+TJj4w-gAAAAJ,A new sequential extraction heuristic for optimizing the delivery of cancer radiation treatment using multileaf collimators,"D Baatar, N Boland, R Johnston, HW Hamacher",INFORMS Journal on Computing,"21 (2), 224-241",7,2009,16703192232842505211,Tyk-4Ss8FVUC
+TJj4w-gAAAAJ,Exploring the role of graph spectra in graph coloring algorithm performance,"K Smith-Miles, D Baatar",Discrete Applied Mathematics,"176, 107-121",5,2014,7060931217326104450,Y0pCki6q_DkC
+TJj4w-gAAAAJ,Special Section: Multileaf Collimators in Radiation Therapy,"HW Hamacher, M Ehrgott, D Baatar, GJ Woeginger, K Engel, T Kalinowski, ...",Discrete Applied Mathematics,152 (1-3),4,2005,6026542461579952490,0EnyYjriUFMC
+TJj4w-gAAAAJ,Selecting suitable solution strategies for classes of graph coloring instances using data mining,"N Insani, K Smith-Miles, D Baatar",Information Technology and Electrical Engineering (ICITEE),2013 …,2,2013,4540190098793555039,YsMSGLbcyi4C
+TJj4w-gAAAAJ,Reformulations and Computational Results for the Uncapacitated Single Allocation Hub Covering Problem,"AT Ernst, H Jiang, M Krishanmoorthy, D Baatar",Data and Decision Sciences in Action,133-148,1,2018,3026967785696127481,u-x6o8ySG0sC
+TJj4w-gAAAAJ,A triplet-based exact method for the shift minimisation personnel task scheduling problem,"D Baatar, M Krishnamoorthy, AT Ernst",Algorithms-Esa,"2015, 59-70",1,2015,295001771306688385,W7OEmFMy1HYC
+TJj4w-gAAAAJ,Minimizing the number of apertures in multileaf collimator sequencing with field splitting,"D Baatar, M Ehrgott, HW Hamacher, IM Raschendorfer",Discrete Applied Mathematics,,0,2018,NA,ufrVoPGSRksC
+TJj4w-gAAAAJ,Minimizing the Number of Apertures in Multileaf Collimator Sequencing with Field Splitting,"HW Hamacher, IM Raschendorfer, D Baatar, M Ehrgott",,,0,2015,NA,eQOLeE2rZwMC
+TJj4w-gAAAAJ,Go to Section,"D Baatar, N Boland, R Johnston, HW Hamacher",INFORMS Journal on Computing,"21 (2), 177-345",0,2009,NA,MXK_kJrjxJIC
+TJj4w-gAAAAJ,Go to Section,JN Hooker,Journal of Japan Society for Fuzzy Theory and Intelligent Informatics,20 (4),0,2002,NA,8k81kl-MbHgC
+TJj4w-gAAAAJ,Supplementary Material for the paper: Instance Spaces for Machine Learning Classification,"L Villanova, MA Munoz, D Baatar, K Smith-Miles",,,0,NA,NA,hqOjcs7Dif8C
+TJj4w-gAAAAJ,Generation techniques for linear and integer programming instances with controllable properties,"S Bowly, K Smith-Miles, D Baatar, H Mittelmann",,,0,NA,NA,Se3iqnhoufwC
+TJj4w-gAAAAJ,Supplementary Material for the paper: Instance Spaces for Machine Learning Classification,"MA Munoz, L Villanova, D Baatar, K Smith-Miles",,,0,NA,NA,roLk4NBRz8UC
+wwd3vdEAAAAJ,Unmasking multivariate outliers and leverage points,"PJ Rousseeuw, BC Van Zomeren",Journal of the American Statistical association,"85 (411), 633-639",1536,1990,"815034808735335414,1782692197486592994",zDhyt2jClVkC
+wwd3vdEAAAAJ,Interactive and dynamic graphics for data analysis: with R and GGobi,"D Cook, DF Swayne, A Buja",Springer Science & Business Media,,538,2007,"17463941247182116439,7317932962633925367,2439202569814362324,6241796214460670509,16550573492320203738,769240687946875429,11222141114902930856,3139029803705572392,8276332892812686708,16271528014671701007",2osOgNQ5qMEC
+wwd3vdEAAAAJ,Interactive high-dimensional data visualization,"A Buja, D Cook, DF Swayne",Journal of computational and graphical statistics,"5 (1), 78-99",426,1996,3763470879691612753,u5HHmVD_uO8C
+wwd3vdEAAAAJ,XGobi: Interactive dynamic data visualization in the X Window System,"DF Swayne, D Cook, A Buja",Journal of computational and Graphical Statistics,"7 (1), 113-130",340,1998,17153326644303567506,u-x6o8ySG0sC
+wwd3vdEAAAAJ,Grand tour and projection pursuit,"D Cook, A Buja, J Cabrera, C Hurley",Journal of Computational and Graphical Statistics,"4 (3), 155-172",271,1995,7429778755469122673,d1gkVwhDpl0C
+wwd3vdEAAAAJ,GGobi: evolving from XGobi into an extensible framework for interactive data visualization,"DF Swayne, DT Lang, A Buja, D Cook",Computational Statistics & Data Analysis,"43 (4), 423-444",269,2003,5648977305778040942,9yKSN-GCB0IC
+wwd3vdEAAAAJ,Projection pursuit indexes based on orthonormal function expansions,"D Cook, A Buja, J Cabrera",Journal of Computational and Graphical Statistics,"2 (3), 225-250",131,1993,11137470826556675788,UeHWp8X0CEIC
+wwd3vdEAAAAJ,ggbio: an R package for extending the grammar of graphics for genomic data,"T Yin, D Cook, M Lawrence",Genome biology,"13 (8), R77",129,2012,9106240774956609443,e5wmG9Sq2KIC
+wwd3vdEAAAAJ,XGobi: interactive dynamic graphics in the X window system with a link to S,"DF Swayne, D Cook, A Buja",,,119,1991,5289288093093173185,qjMakFHDy7sC
+wwd3vdEAAAAJ,BarleyBase—an expression profiling database for plant genomics,"L Shen, J Gong, RA Caldo, D Nettleton, D Cook, RP Wise, JA Dickerson",Nucleic Acids Research,"33 (suppl_1), D614-D618",108,2005,860238346438602712,LjlpjdlvIbIC
+wwd3vdEAAAAJ,Dynamic graphics in a GIS: More examples using linked software,"D Cook, J Symanzik, JJ Majure, N Cressie",Computers & Geosciences,"23 (4), 371-385",91,1997,4421027003597092597,IjCSPb-OGe4C
+wwd3vdEAAAAJ,Statistical inference for exploratory data analysis and model diagnostics,"A Buja, D Cook, H Hofmann, M Lawrence, EK Lee, DF Swayne, ...",Philosophical Transactions of the Royal Society of London A: Mathematical …,,81,2009,10347521957724374176,Zph67rFs4hoC
+wwd3vdEAAAAJ,Projection pursuit for exploratory supervised classification,"EK Lee, D Cook, S Klinke, T Lumley",Journal of Computational and Graphical Statistics,"14 (4), 831-846",76,2005,15642798490648135666,eQOLeE2rZwMC
+wwd3vdEAAAAJ,The benefits of statistical visualization in an immersive environment,"L Arms, D Cook, C Cruz-Neira",Virtual Reality,"1999. Proceedings., IEEE, 88-95",75,1999,15634270624537343415,YsMSGLbcyi4C
+wwd3vdEAAAAJ,Dynamic graphics in a GIS: exploring and analyzing multivariate spatial data using linked software,"D Cook, JJ Majure, J Symanzik, N Cressie",,,72,1996,16446283001068339751,zYLM7Y9cAGgC
+wwd3vdEAAAAJ,Using graphics and simulation to teach statistical concepts,"MG Marasinghe, WQ Meeker, D Cook, T Shin",The American Statistician,"50 (4), 342-351",70,1996,3962794773754582135,Y0pCki6q_DkC
+wwd3vdEAAAAJ,MetNet: software to build and model the biogenetic lattice of Arabidopsis,"ES Wurtele, J Li, L Diao, H Zhang, CM Foster, B Fatland, J Dickerson, ...",International Journal of Genomics,"4 (2), 239-245",67,2003,15666870085465130400,Tyk-4Ss8FVUC
+wwd3vdEAAAAJ,Manual controls for high-dimensional data projections,"D Cook, A Buja",Journal of computational and Graphical Statistics,"6 (4), 464-480",64,1997,14372242683816179747,W7OEmFMy1HYC
+wwd3vdEAAAAJ,Graphical inference for infovis,"H Wickham, D Cook, H Hofmann, A Buja",IEEE Transactions on Visualization and Computer Graphics,"16 (6), 973-979",60,2010,905284134464404381,YOwf2qJgpHMC
+wwd3vdEAAAAJ,The determinants of student mobility in Europe: the quality dimension,"L Van Bouwel, R Veugelers",European Journal of Higher Education,"3 (2), 172-190",58,2013,"8740604252288049775,13531201242415189870",ae0xyBWlIcIC
+wwd3vdEAAAAJ,Linking ArcView™ and XGobi: Insight behind the Front End,"J Symanzik, D Cook, N Lewin-Koh, JJ Majure, I Megretskaia",Journal of Computational and Graphical Statistics,"9 (3), 470-490",57,2e3,8596124552715871932,WF5omc3nYNoC
+wwd3vdEAAAAJ,The generalized pairs plot,"JW Emerson, WA Green, B Schloerke, J Crowley, D Cook, H Hofmann, ...",Journal of Computational and Graphical Statistics,"22 (1), 79-91",51,2013,3494148837884631787,NaGl4SEjCO4C
+wwd3vdEAAAAJ,tourr: An R package for exploring multivariate data with projections,"H Wickham, D Cook, H Hofmann, A Buja",Journal of Statistical Software,"40 (2), 1-18",49,2011,3323201582835043347,r0BpntZqJG4C
+wwd3vdEAAAAJ,Ggally: Extension to ggplot2,"B Schloerke, J Crowley, D Cook, H Hofmann, H Wickham, F Briatte, ...",,,48,2011,11722625074738026601,Sg-YnEhjH50C
+wwd3vdEAAAAJ,Population structure and linkage disequilibrium in oat (Avena sativa L.): implications for genome-wide association studies,"MA Newell, D Cook, NA Tinker, JL Jannink",Theoretical and applied genetics,"122 (3), 623-632",47,2011,12670585872050379490,4TOpqqG69KYC
+wwd3vdEAAAAJ,Gaining insights into support vector machine pattern classifiers using projection-based tour methods,"D Caragea, D Cook, VG Honavar",Proceedings of the seventh ACM SIGKDD international conference on Knowledge …,,47,2001,4642981708871184064,8k81kl-MbHgC
+wwd3vdEAAAAJ,Dynamic graphics in a GIS: A bidirectional link between ArcView 2.0 and XGobi,"J Symanzik, JJ Majure, D Cook",,,45,1996,12828658850852277639,ufrVoPGSRksC
+wwd3vdEAAAAJ,Orca: A visualization toolkit for high-dimensional data,"P Sutherland, A Rossini, T Lumley, N Lewin-Koh, J Dickerson, Z Cox, ...",Journal of Computational and Graphical Statistics,"9 (3), 509-529",39,2e3,14666825986355703973,LkGwnXOMwfcC
+wwd3vdEAAAAJ,Visualization of data,"RD Meyer, D Cook",Current Opinion in Biotechnology,"11 (1), 89-96",39,2e3,5409742041828453842,_FxGoFyzp5QC
+wwd3vdEAAAAJ,Metnet: Systems biology tools for arabidopsis,"ES Wurtele, L Li, D Berleant, D Cook, JA Dickerson, J Ding, H Hofmann, ...",Concepts in plant metabolomics,145-157,35,2007,11021174715439550743,roLk4NBRz8UC
+wwd3vdEAAAAJ,"Validation of visual statistical inference, applied to linear models","M Majumder, H Hofmann, D Cook",Journal of the American Statistical Association,"108 (503), 942-956",33,2013,3201506009084463478,hMod-77fHWUC
+wwd3vdEAAAAJ,Interactive visualization of hierarchical clusters using MDS and MST,"SS Kim, S Kwon, D Cook",Metrika,"51 (1), 39-51",33,2e3,277047194007874346,4DMP91E08xMC
+wwd3vdEAAAAJ,Computational methods for high-dimensional rotations in data visualization,"A Buja, D Cook, D Asimov, C Hurley",Handbook of statistics,"24, 391-413",32,2005,12949302741705074832,kNdYIx-mwKoC
+wwd3vdEAAAAJ,Xgobi vs the c2: Results of an experiment comparing data visualization in a 3-d immersive virtual reality environment with a 2-d workstation display,"L Nelson, D Cook, C Cruz-Neira",Computational Statistics,"14 (1), 39-52",31,1999,17130224257293030118,KlAtU1dfN6UC
+wwd3vdEAAAAJ,Dynamic projections in high-dimensional visualization: Theory and computational methods,"A Buja, D Cook, D Asimov, C Hurley",Journal of Computational and Graphical Statistics,,29,1997,3695762799937224467,UebtZRa9Y70C
+wwd3vdEAAAAJ,Identification of candidate genes involved in early iron deficiency chlorosis signaling in soybean (Glycine max) roots and leaves,"ANM Lauter, GA Peiffer, T Yin, SA Whitham, D Cook, RC Shoemaker, ...",BMC genomics,"15 (1), 702",28,2014,17999757186274503295,t7zJ5fGR-2UC
+wwd3vdEAAAAJ,Visual methods for examining SVM classifiers,"D Caragea, D Cook, H Wickham, V Honavar",Visual Data Mining,136-153,28,2008,2985168881036507591,4JMBOYKVnBMC
+wwd3vdEAAAAJ,Statistical machine learning for large-scale optimization,"S Baluja, A Barto, KD Boese, J Boyan, W Buntine, T Carson, R Caruana, ...",Neural Computing Surveys,"3, 1-58",27,2e3,3268200937857756361,QSG1pgF8pGAC
+wwd3vdEAAAAJ,Spatial data analysis in the dynamically linked ArcView/XGobi/XploRe environment,"S Klinke, D Cook, DF Swayne","Humboldt University of Berlin, Interdisciplinary Research Project",373 …,27,1997,11923628231702537147,hqOjcs7Dif8C
+wwd3vdEAAAAJ,Graphical tests for power comparison of competing designs,"H Hofmann, L Follett, M Majumder, D Cook",IEEE Transactions on Visualization and Computer Graphics,"18 (12), 2441-2448",26,2012,15666013876014293541,GnPB-g6toBAC
+wwd3vdEAAAAJ,Visual data mining in atmospheric science data,"M Macêdo, D Cook, TJ Brown",Data Mining and Knowledge Discovery,"4 (1), 69-80",26,2e3,3299919496342160392,5nxA0vEk-isC
+wwd3vdEAAAAJ,"User's manual for XGobi, a dynamic graphics program for data analysis implemented in the X window system (release 2)","DF Swayne, D Cook, A Buja","Bellcore, Nov",,26,1991,5020411123993584728,0EnyYjriUFMC
+wwd3vdEAAAAJ,Spatial CDF Estimation and Visualization with Applications to Forest Healthmonitoring,"JJ Majure, D Cook, N Cressie, MS Kaiser, SN Lahiri, J Symanzik",Iowa State University. Department of Statistics. Statistical Laboratory,,23,1995,1207200097501774526,3fE2CSJIrl8C
+wwd3vdEAAAAJ,Glyph‐maps for visually exploring temporal patterns in climate data and models,"H Wickham, H Hofmann, C Wickham, D Cook",Environmetrics,"23 (5), 382-393",22,2012,16804886872044996922,ns9cj8rnVeAC
+wwd3vdEAAAAJ,"Grand tours, projection pursuit guided tours, and manual controls","D Cook, A Buja, EK Lee, H Wickham",Handbook of data visualization,295-314,22,2008,17284801415952327009,3s1wT3WcHBgC
+wwd3vdEAAAAJ,"Grand tours, projection pursuit guided tours, and manual controls","D Cook, A Buja, EK Lee, H Wickham",Handbook of data visualization,295-314,22,2008,17284801415952327009,L8Ckcad2t8MC
+wwd3vdEAAAAJ,Temporal pattern discovery in course-of-disease data,"JCG Ramirez, DJ Cook, LL Peterson, DM Peterson",IEEE Engineering in Medicine and Biology Magazine,"19 (4), 63-71",22,2e3,637920467116310692,LZ55yeyZZb4C
+wwd3vdEAAAAJ,"User's Manual for XGobi, a Dynamic Graphics Program for Data Analysis","DF Swayne, D Cook, AB Bellcore",Implemented in the X Window System (Version,2). Bellcore Technical Memorandum,22,1991,7883239235398034440,MXK_kJrjxJIC
+wwd3vdEAAAAJ,Exploring environmental data in a highly immersive virtual reality environment,"D Cook, C Cruz-Neira, BD Kohlmeyer, U Lechner, N Lewin, L Nelson, ...",Environmental Monitoring and Assessment,"51 (1-2), 441-450",21,1998,5732864877816287176,_kc_bZDykSQC
+wwd3vdEAAAAJ,Dynamic statistical graphics in the CAVE virtual reality environment,"J Symanzik, D Cook, BD Kohlmeyer, C Cruz-Neira",Proc. Dynamic Statistical Graphics Workshop,,21,1996,16379483056838765409,Se3iqnhoufwC
+wwd3vdEAAAAJ,A projection pursuit index for large p small n data,"EK Lee, D Cook",Statistics and Computing,"20 (3), 381-392",20,2010,2997757363189511973,j3f4tGmQtD8C
+wwd3vdEAAAAJ,Replication protein A subunit 3 and the iron efficiency response in soybean,"SE Atwood, JA O'ROURKE, GA Peiffer, T Yin, M Majumder, C Zhang, ...","Plant, cell & environment","37 (1), 213-234",19,2014,908055513382992804,g5m5HwL7SMYC
+wwd3vdEAAAAJ,The plumbing of interactive graphics,"H Wickham, M Lawrence, D Cook, A Buja, H Hofmann, DF Swayne",Computational Statistics,"24 (2), 207-215",19,2009,4591531066957102279,YFjsv_pBGBYC
+wwd3vdEAAAAJ,Binary response and logistic regression analysis,"B Stephenson, D Cook, P Dixon, W Duckworth, M Kaiser, K Koehler, ...","available at:< a href="" http://www. stat. wisc. edu/mchung/teaching/MIA …",,18,2008,963715140222588552,W5xh706n7nkC
+wwd3vdEAAAAJ,"Exploring gene expression data, using plots","D Cook, H Hofmann, EK Lee, H Yang, B Nikolau, E Wurtele",Journal of Data Science,"5 (2), 151",18,2007,10734412652719552060,Wp0gIr-vW9MC
+wwd3vdEAAAAJ,Some Dynamic Graphics for Spatial Data (with Multiple Attributes) in a GIS,"D Cook, N Cressie, J Majure, J Symanzik",Compstat,105-119,18,1994,13389646221298451332,qxL8FJ1GzNcC
+wwd3vdEAAAAJ,Visualizing statistical models: Removing the blindfold,"H Wickham, D Cook, H Hofmann",Statistical Analysis and Data Mining: The ASA Data Science Journal,8 (4 …,17,2015,16353311979357982878,vYYylRVofzEC
+wwd3vdEAAAAJ,"Visualization for classification problems, with examples using support vector machines","D Cook, D Caragea, V Honavar",Proceedings of the COMPSTAT,,17,2004,7249304846171034396,QIV2ME_5wuYC
+wwd3vdEAAAAJ,Visualization of stable manifolds and multidimensional surfaces in the analysis of power system dynamics,"R Qi, D Cook, W Kliemann, V Vittal",Journal of Nonlinear Science,"10 (2), 175-195",17,2e3,1059555522003787225,aqlVkmm33-oC
+wwd3vdEAAAAJ,Does host‐plant diversity explain species richness in insects? A test using C occidae (H emiptera),"YENPO LIN, DH Cook, PJ Gullan, LG Cook",Ecological Entomology,"40 (3), 299-306",16,2015,1905996636946861848,MaiMEk8tZqMC
+wwd3vdEAAAAJ,explorase: Exploratory data analysis of systems biology data,"M Lawrence, EK Lee, D Cook, H Hofmann, E Wurtele",Coordinated and Multiple Views in Exploratory Visualization,2006 …,16,2006,8475903928662047574,R3hNpaxXUhUC
+wwd3vdEAAAAJ,GGobi: XGobi redesigned and extended,"D Swayne, DT Lang, A Buja, D Cook",Proceedings of the,33th Symposium on the Interface: Computing Science and …,16,2001,17890553045637454048,ZeXyd9-uunAC
+wwd3vdEAAAAJ,Theory and computational methods for dynamic projections in high-dimensional data visualization,"ABD COOK, D ASIMOV, C HURLEY",Journal of computational and graphical statistics,,16,1997,11175757846578009513,7PzlFSSx8tAC
+wwd3vdEAAAAJ,Dynamic Graphics in a GIS: A Link between ARC/INFO and XGobi,"J Symanzik, J Majure, D Cook, N Cressie",,,16,1994,"6835831405942915027,13380800143849426120",ULOm3_A8WrAC
+wwd3vdEAAAAJ,ESR and optical evidence for two distinct porphyrin triplet states in linked porphyrin-quinone molecules,"AR McIntosh, JR Bolton, JS Connolly, KL Marsh, DR Cook, TF Ho, ...",The Journal of Physical Chemistry,"90 (22), 5640-5646",16,1986,11645398251258307802,YiZc1oW-E3oC
+wwd3vdEAAAAJ,Association of maternal antiangiogenic profile at birth with early postnatal loss of microvascular density in offspring of hypertensive pregnancies,"GZ Yu, CYL Aye, AJ Lewandowski, EF Davis, CP Khoo, L Newton, ...",Hypertension,"68 (3), 749-759",14,2016,9286913359366098191,bYbwfsIO_fQC
+wwd3vdEAAAAJ,Ggally: Extension to ggplot2. R package version 0.5. 0,"B Schloerke, J Crowley, D Cook, H Hofmann, H Wickham, F Briatte, ...",,,14,2014,6647760401622367283,R8TPKZP7usQC
+wwd3vdEAAAAJ,Dynamic statistical graphics in the c2 virtual environment,"J Symanzik, D Cook, BD Kohlmeyer, U Lechner, C Cruz-Neira",Second World Conference of the International Association for Statistical …,,14,1997,4661228294547712572,5thYEm8kiqcC
+wwd3vdEAAAAJ,"Massive data sets: Problems and possibilities, with application to environmental monitoring","N Cressie, A Olsen, D Cook",Massive Data Sets: Proceedings of a Workshop,115-119,14,1997,4381572685719910561,TQgYirikUcIC
+wwd3vdEAAAAJ,Implementation issues of variogram cloud plots and spatially lagged scatterplots in the linked ArcView 2.1 and XGobi environment,"J Symanzik, I Megretskaia, JJ Majure, D Cook",LAGGED SCATTERPLOTS IN THE LINKED ARCVIEW,2.1 AND XGOBI ENVIRONMENT …,14,1997,11465836390150787272,M3ejUd6NZC8C
+wwd3vdEAAAAJ,"Towards simple, easy-to-understand, yet accurate classifiers","D Caragea, D Cook, V Honavar",null,497,13,2003,3603432920805391383,9ZlFYXVOiuMC
+wwd3vdEAAAAJ,Inference for data visualization,"A Buja, D Cook, D Swayne",Talk given at Joint Statistical Meetings,,13,1999,13655469888903150704,dhFuZR0502QC
+wwd3vdEAAAAJ,The ArcView/XGobi/XploRe environment: Technical details and applications for spatial data analysis,"J Symanzik, S Klinke, S Schmelzer, D Cook, N Lewin",In ASA Proceedings of the Section on Statistical Graphics,,13,1997,3175609133055203170,mVmsd5A6BfQC
+wwd3vdEAAAAJ,PPtree: Projection pursuit classification tree,"YD Lee, D Cook, J Park, EK Lee",Electronic Journal of Statistics,"7, 1369-1386",11,2013,8711943236565275592,l7t_Zn2s7bgC
+wwd3vdEAAAAJ,"The linked ArcView 2.1 and XGobi environment—GIS, dynamic statistical graphics, and spatial data","J Symanzik, JJ Majure, D Cook",Proceedings of the,4th ACM international workshop on Advances in geographic …,11,1996,17011581288252957417,mB3voiENLucC
+wwd3vdEAAAAJ,"GIS, spatial statistical graphics, and forest health","JJ Majure, N Cressie, D Cook, J Symanzik",Iowa State University. Department of Statistics. Statistical Laboratory,,11,1996,2556867311700949,IWHjjKOFINEC
+wwd3vdEAAAAJ,Minimax Aspects of Bounded-Influence Regression: Comment,"RD Cook, S Weisberg",Journal of the American Statistical Association,"78 (381), 74-75",11,1983,"4535193347077306464,12282058615815253833",EUQCXRtRnyEC
+wwd3vdEAAAAJ,Visually exploring missing values in multivariable data using a graphical user interface,"X Cheng, D Cook, H Hofmann",Journal of Statistical Software,"68 (1), 1-23",10,2015,12856051951058467167,bNB6FdaCRgEC
+wwd3vdEAAAAJ,An algorithm for deciding the number of clusters and validation using simulated data with application to exploring crop population structure,"MA Newell, D Cook, H Hofmann, JL Jannink",The Annals of Applied Statistics,1898-1916,10,2013,9201463662627203781,5awf1xo2G04C
+wwd3vdEAAAAJ,cranvas: Interactive statistical graphics based on Qt,"Y Xie, H Hofmann, D Cook, X Cheng, B Schloerke, M Vendettuoli, T Yin, ...",R package version,0.8 3,10,2013,10895413580403158201,3s2jc9hNhkQC
+wwd3vdEAAAAJ,GGobi,"DF Swayne, A Buja, DT Lang, D Cook",,,10,2007,12298590698580588799,R0GtuAMwyXEC
+wwd3vdEAAAAJ,Visualizing membership in multiple clusters after fuzzy c-means clustering,"Z Cox, JA Dickerson, DH Cook",Visual Data Exploration and Analysis VIII,"4302, 60-69",10,2001,18073472122421186018,HDshCWvjkbEC
+wwd3vdEAAAAJ,Calibrate your eyes to recognize high-dimensional shapes from their low-dimensional projections,D Cook,Journal of Statistical Software,"2 (1), 1-7",10,1997,13977564652075419043,hC7cP41nSMkC
+wwd3vdEAAAAJ,Dynamic Graphics in a GIS: A Bidirectional Link between ArcView 2.1 [TM] and XGobi-An Update,"J Symanzik, JJ Majure, D Cook",Computing Science and Statistics,35-40,10,1997,2203191005099353036,qUcmZB5y_30C
+wwd3vdEAAAAJ,XGobi: a dynamic graphics program implemented in X with a link to S,"DF Swayne, D Cook",Computing Science and Statistics,544-547,10,1992,6021420888669076296,hFOr9nPyWt4C
+wwd3vdEAAAAJ,Junctional Adhesion Molecule‐A Is Highly Expressed on Human Hematopoietic Repopulating Cells and Associates with the Key Hematopoietic Chemokine Receptor CXCR4,"CH Chang, SJ Hale, CV Cox, A Blair, B Kronsteiner, R Grabowska, ...",Stem Cells,"34 (6), 1664-1678",9,2016,12673485391663986160,lu5AzqVF4qYC
+wwd3vdEAAAAJ,Extending the GGobi pipeline from R,"M Lawrence, H Wickham, D Cook, H Hofmann, DF Swayne",Computational Statistics,"24 (2), 195-205",9,2009,2637263468275308769,TFP_iSt0sucC
+wwd3vdEAAAAJ,Hope for the journey (revised ed.),"CR Snyder, D McDermott, W Cook, M Rapoff","Clinton Corners, NY: Percheron",,9,2002,1802251533172627892,hzvVvKpMvx4C
+wwd3vdEAAAAJ,EXPLORATION OF SATELLITE IMAGES IN THE DYNAMICALLY LINKED ARCVIEW/XGOBI/XPLORE ENVIRONMENT1,"J Symanzik, D Cook, S Klinke, N Lewin",US Army Conference on Applied Statistics,"22-24 October 1997, 23",9,1997,4533383294028288499,-f6ydRqryjwC
+wwd3vdEAAAAJ,Gradient‐based habitat affinities predict species vulnerability to drought,"DM Debinski, JC Caruthers, D Cook, J Crowley, H Wickham",Ecology,"94 (5), 1036-1045",8,2013,11786957637603850959,fQNAKQ3IYiAC
+wwd3vdEAAAAJ,Glaciers melt as mountains warm: A graphical case study,"J Hobbs, H Wickham, H Hofmann, D Cook",Computational Statistics,"25 (4), 569-586",8,2010,2599237201989975108,RHpTSmoSYBkC
+wwd3vdEAAAAJ,The variogram cloud link,"D Cook, J Symanzik, JJ Majure",,,8,1996,16341817244836507825,LGh1lRt-7sUC
+wwd3vdEAAAAJ,Finding influential cases in linear regression: A review,"DR Cook, S Weisberg",University of Minnesota,,8,1979,2044723797403929915,LwieBGrN4GEC
+wwd3vdEAAAAJ,Data visualization and statistical graphics in big data analysis,"D Cook, EK Lee, M Majumder",Annual Review of Statistics and Its Application,"3, 133-159",7,2016,16041714764387578316,U_h31ocWZrQC
+wwd3vdEAAAAJ,envlp: A MATLAB toolbox for computing envelope estimators in multivariate analysis,"D Cook, Z Su, Y Yang",Journal of Statistical Software,"62 (1), 1-20",7,2015,1707258363136961820,NRnkAyzcrGMC
+wwd3vdEAAAAJ,Mind reading: Using an eye-tracker to see how people are looking at lineups,"Y Zhao, D Cook, H Hofmann, M Majumder, NR Chowdhury",International Journal of Intelligent Technologies and Applied Statistics,6 …,7,2013,3753796349437488498,1yQoGdGgb4wC
+wwd3vdEAAAAJ,nullabor: Tools for graphical inference,"H Wickham, NR Chowdhury, D Cook",R package version,"0.2 1, 213",7,2012,2477248060469017274,-Rb0Dl3RFGgC
+wwd3vdEAAAAJ,PKgraph: an R package for graphically diagnosing population pharmacokinetic models,"X Sun, K Wu, D Cook",Computer methods and programs in biomedicine,"104 (3), 461-471",7,2011,16830759702781133261,35N4QoGY0k4C
+wwd3vdEAAAAJ,Binning of kernel-based projection pursuit indices in XGobi,"S Klinke, D Cook",Computational Statistics & Data Analysis,"25 (3), 363-369",7,1997,8980792325680402369,iH-uZ7U-co4C
+wwd3vdEAAAAJ,GGally: Extension to ggplot2.(2014),"B Schloerke, J Crowley, D Cook, H Hofmann, H Wickham, F Briatte, ...",R package version,"1 (0), 2",7,NA,1890773633843225789,EO1llL0aI9sC
+wwd3vdEAAAAJ,GGally: Extension to ‘ggplot2’(R Package Version 1.3. 1),"B Schloerke, J Crowley, D Cook, F Briatte, M Marbach, E Thoen, A Elberg, ...",,,6,2017,5175176403149135407,P--cqP0FnSgC
+wwd3vdEAAAAJ,"Using visual statistical inference to better understand random class separations in high dimension, low sample size data","NR Chowdhury, D Cook, H Hofmann, M Majumder, EK Lee, AL Toth",Computational Statistics,"30 (2), 293-316",6,2015,2928756466484919862,nrtMV_XWKgEC
+wwd3vdEAAAAJ,Let Graphics Tell the Story-Datasets in R.,"A Unwin, H Hofmann, D Cook",R Journal,5 (1),6,2013,17309815115632962563,dTyEYWd-f8wC
+wwd3vdEAAAAJ,Theory of dynamic projections in high-dimensional data visualization,"A Buja, D Cook, D Asimov, C Hurley",,,6,2004,13269871731041027934,bEWYMUwI8FkC
+wwd3vdEAAAAJ,A projection pursuit method on the multidimensional squared contingency table,"JS Ahn, H Hofmann, D Cook",Computational Statistics,"18 (3), 605-626",6,2003,2125775773991057612,_Qo2XoVZTnwC
+wwd3vdEAAAAJ,Software integration for multivariate exploratory spatial data analysis,"J urgen Symanzik, DF Swayne, DT Lang, D Cook",,,6,2002,16952481703787161740,isC4tDSrTZIC
+wwd3vdEAAAAJ,Hope for the journey: Helping children through the good times and xx (revised edition),"CR Snyder, D McDermott, W Cook, M Rapoff","Clinton Corners, NY: Percheron Press",,6,2002,6277026207522112458,tsQ8sfJ2mf4C
+wwd3vdEAAAAJ,Dynamic Graphics in a GIS: Analyzing and Exploring Multivariate Spatial Data,"J Symanzik, JJ Majure, D Cook",ASA Statistical Graphics Video Lending Library (contact: dfs@ research. att …,,6,1995,16824926871291513247,cpgjJtNNFA0C
+wwd3vdEAAAAJ,Projection pursuit indices based on fractal dimension,"J Cabrera, D Cook",Computing Science and Statistics,474-474,6,1993,15710782735303896720,M3NEmzRMIkIC
+wwd3vdEAAAAJ,A preliminary biological survey of Port Hope Harbour,"W Cook, D Veal",Report to the Ontario Ministry of Environment.(Cited by Warwick,1988),6,1968,16745896012428640645,kFM4V80Y5EsC
+wwd3vdEAAAAJ,Congruent biogeographical disjunctions at a continent-wide scale: Quantifying and clarifying the role of biogeographic barriers in the Australian tropics,"RD Edwards, MD Crisp, DH Cook, LG Cook",PloS one,"12 (4), e0174812",5,2017,17986762853575136090,X1y8G5kAG8gC
+wwd3vdEAAAAJ,"Visual Mining Methods for RNA-Seq Data: Data Structure, Dispersion Estimation and Significance Testing","T Yin, M Majumder, N Roy Chowdhury, D Cook, R Shoemaker, M Graham",Journal of Data Mining in Genomics & Proteomics,"4 (139), 2153-0602.1000139",5,2013,11382646252645868450,5Ul4iDaHHb8C
+wwd3vdEAAAAJ,tourrGui: A gWidgets GUI for the tour to explore high-dimensional data using low-dimensional projections,"B Huang, D Cook, H Wickham",Journal of Statistical Software,"49 (6), 1-12",5,2012,12627017537385602772,lSLTfruPkqcC
+wwd3vdEAAAAJ,Where’s Waldo: Looking closely at a lineup,"NR Chowdhury, D Cook, H Hofmann, M Majumder, Y Zhao",Technical Report,"2, Iowa State University, Department of Statistics,",5,2012,12411982808770187828,JQOojiI6XY0C
+wwd3vdEAAAAJ,"Visual methods for examining support vector machine results, with applications to gene expression data analysis","D Caragea, D Cook, VG Honavar",,,5,2005,13447851919687211323,blknAaTinKkC
+wwd3vdEAAAAJ,Journeys of hope: Giving children stories to grow on,"CR Snyder, D McDermott, W Cook, M Rapoff","Boulder, CO: Westview",,5,1997,6424254342011338500,_WP0DvM6eX8C
+wwd3vdEAAAAJ,An Introduction to Regression Graphics,D Cook,Journal of the American Statistical Association,"90 (431), 1126-1128",5,1995,14352670287361978359,LpHykl0McycC
+wwd3vdEAAAAJ,Human factors influencing visual statistical inference,"M Majumder, H Hofmann, D Cook",arXiv preprint arXiv:,:1408.1974,4,2014,13681698879125761005,uJ-U7cs_P_0C
+wwd3vdEAAAAJ,GGobi: a data visualization system,"DF Swayne, A Buja, D Temple Lang, D Cook",Astrophysics Source Code Library,,4,2011,2644795095173998736,fXCg-C-QWH4C
+wwd3vdEAAAAJ,"Publishing Animations, 3D Visualizations, and Movies in JCGS","RA Levine, L Tierney, H Wickham, E Sampson, D Cook, DA van Dyk",Journal of Computational and Graphical Statistics,"19 (1), 1-2",4,2010,10598243531064930273,J_g5lzvAfSwC
+wwd3vdEAAAAJ,Incorporating exploratory methods using dynamic graphics into multivariate statistics classes: curriculum development,D Cook,Quality Research in Literacy and Science Education,337-355,4,2009,16580120545727001364,O3NaXMp0MMsC
+wwd3vdEAAAAJ,exploRase: Multivariate exploratory analysis and visualization for systems biology,"M Lawrence, D Cook, EK Lee, H Babka, ES Wurtele",Journal of statistical software,"25 (9), 1",4,2008,13420274925072589239,BqipwSGYUEgC
+wwd3vdEAAAAJ,Visual Methods for Data from Two Factor Single-Replicate Gene Expression Studies,"D Cook, H Hofmann, EK Lee, H Yang, B Nikolau, E Wurtele",,,4,2004,4902886047394349552,maZDTaKrznsC
+wwd3vdEAAAAJ,Hope for the journey (Rev. ed.),"CR Snyder, D McDermott, W Cook, M Rapoff","Clinton Corners, NY: Percheron Press",,4,2002,2216904795827383080,GWiaReNCd0YC
+wwd3vdEAAAAJ,On the Edge: Statistics & Computing: Virtual Reality: Real Ponderings,"DJ Murdoch, D Cook",Chance,"14 (1), 47-51",4,2001,4147982560574049056,k_IJM867U9cC
+wwd3vdEAAAAJ,Data mining soil characteristics affecting corn yield,"WF Christensen, D Cook",the Australasian Workshop on Data Mining and Web Intelligence (AWDM&WI,2003 …,4,1998,14523117780351310494,aJ-3-MYELVsC
+wwd3vdEAAAAJ,Grand Tour Combined with Minimal Spanning Tree in JAVA for Finding Structure in High Dimensional Data,"S Kwon, D Cook",Computing Science and Statistics,224-228,4,1998,802958151731136867,JV2RwH3_ST0C
+wwd3vdEAAAAJ,Theory and computational methods for dynamic projections in high-dimensional data visualization,"A Buja, D Cook, D Asimov, C Hurley",URL: http://www. research. att. com/areas/stat/xgobi/papers/dynamic …,,4,1996,11650208989328741125,dQ2og3OwTAUC
+wwd3vdEAAAAJ,Utilizing distance metrics on lineups to examine what people read from data plots,"NR Chowdhury, D Cook, H Hofmann, M Majumder, Y Zhao",arXiv preprint arXiv:,:1408.1889,3,2014,11366512085417086687,VLnqNzywnoUC
+wwd3vdEAAAAJ,"Delayed, canceled, on time, boarding… flying in the USA","H Hofmann, D Cook, C Kielion, B Schloerke, J Hobbs, A Loy, L Mosley, ...",Journal of Computational and Graphical Statistics,"20 (2), 287-290",3,2011,6480312624787598049,pqnbT2bcN3wC
+wwd3vdEAAAAJ,Sliced inverse regression,KC Li,Encyclopedia of Statistical Sciences,12,3,2004,"13947907859633067543,17205763912522895952",XD-gHx7UXLsC
+wwd3vdEAAAAJ,GeneGobi: Visual data analysis tools for microarray data,"EK Lee, D Cook, H Hofmann, ES Wurtele, D Kim, J Kim, H An",COMPSTAT,"2004 Symposium, 1373-1380",3,2004,3997851046343581755,NMxIlDl6LWMC
+wwd3vdEAAAAJ,Multivariate Q-Q Plots Based on Quantile Contours,"PG Jones, D Cook",NASA,,3,1996,8319479066705681480,hkOj_22Ku90C
+wwd3vdEAAAAJ,Model Choice and Diagnostics for Linear Mixed-Effects Models Using Statistics on Street Corners,"A Loy, H Hofmann, D Cook",Journal of Computational and Graphical Statistics,"26 (3), 478-492",2,2017,11750051101398131455,3q5vy9RXY8EC
+wwd3vdEAAAAJ,Projection pursuit classification random forest,"N da Silva, D Cook, EK Lee",,,2,2017,4842431345439829516,BFeJNCPbDVwC
+wwd3vdEAAAAJ,Enabling interactivity on displays of multivariate time series and longitudinal data,"X Cheng, D Cook, H Hofmann",Journal of Computational and Graphical Statistics,"25 (4), 1057-1076",2,2016,11208579034345453332,yB1At4FlUx8C
+wwd3vdEAAAAJ,Visual statistical inference for regression parameters,"M Majumder, H Hofmann, D Cook",Technical Report,"13, Iowa State University, Department of Statistics,",2,2011,3148725015944398708,RGFaLdJalmkC
+wwd3vdEAAAAJ,Cluster Analysis,"D Cook, DF Swayne",Interactive and Dynamic Graphics for Data Analysis: With R and Ggobi,103-128,2,2007,11984767344360121973,xXdmTUQ9lisC
+wwd3vdEAAAAJ,Exploring high-dimensional classification boundaries,"H Wickham, D Caragea, D Cook",Proceedings of the,"38th Symposium on the Interface of Statistics, Computing …",2,2006,3963112762076490354,OA9cGvo6324C
+wwd3vdEAAAAJ,Boom and Bust of Technology Companies at the Turn of the 21st Century,"H Hofmann, H Wickham, D Cook, J Sun, C Röttger",DEF,"10 (20), 30",2,2005,16001777964773386506,vV6vV6tmYwMC
+wwd3vdEAAAAJ,Densityplot matrix display for large distributed data,"J Zhang, L Miller, D Cook, A Hardjasamudra, H Hofman","Proceedings of the Third International Workshop on Visual Data Mining, Third …",,2,2003,3770491262261808578,RYcK_YlVTxYC
+wwd3vdEAAAAJ,Using Dynamic Statistical Graphics in a Highly Immersive Virtual Reality Environment to Understand Multivariate (Spatial) Data,"D Cook, C Cruz-Neira, U Lechner, L Nelson, A Olsen, S Pierson, ...",Bulletin of the International Statistical Institute,51st Session Istanbul …,2,1997,17633609853849778133,70eg2SAEIzsC
+wwd3vdEAAAAJ,Regression Diagnostics,"D Cook, S Weisberg","Chapman and Hall, London",,2,1984,2214127795629838794,JVJ6OkSwpHsC
+wwd3vdEAAAAJ,Dynamical projections for the visualization of PDFSense data,"D Cook, U Laa, G Valencia",The European Physical Journal C,"78 (9), 742",1,2018,9110690189452049647,zBCjByih94YC
+wwd3vdEAAAAJ,Interactive Graphics for Visually Diagnosing Forest Classifiers in R,"N da Silva, D Cook, EK Lee",arXiv preprint arXiv:,:1704.02502,1,2017,16877159157407794032,7q08wCQPkLwC
+wwd3vdEAAAAJ,Authors' response to discussants,"H Wickham, D Cook, H Hofmann",Statistical Analysis and Data Mining: The ASA Data Science Journal,8 (4 …,1,2015,6187150512375257410,HKuYlFsi-qEC
+wwd3vdEAAAAJ,A methodical approach for identifying outliers in complex data,"I Trucillo-Silva, D Cook, M Lee",Identification of QTL associated with nitrogen metabolism in a maize (Zea …,,1,2015,14599422083232389849,FmXltp8y-ZkC
+wwd3vdEAAAAJ,The 2011 data Expo of the American Statistical Association,D Cook,Computational Statistics,"29 (1-2), 117-119",1,2014,11700775380551443782,ZuybSZzF8UAC
+wwd3vdEAAAAJ,Can you buy a president? Politics after the Tillman Act,"A Kaplan, E Hare, H Hofmann, D Cook",Chance,"27 (1), 20-30",1,2014,17872113121804714270,UHK10RUVsp4C
+wwd3vdEAAAAJ,BirdsEyeView (BEV): graphical overviews of experimental data,"L Zhang, D Berleant, Y Wang, L Li, D Cook, ES Wurtele",BMC bioinformatics,"13 (15), S11",1,2012,3565433618569674211,4p3FJGzxjgAC
+wwd3vdEAAAAJ,"Validation of visual statistical inference, with applications to linear models","M Majumder, H Hofmann, D Cook",Technical Report,"4, Iowa State University, Department of Statistics,",1,2012,14600791673506099147,NJ774b8OgUMC
+wwd3vdEAAAAJ,Tips for presenting your work,D Cook,"A peer-reviewed, open-access publication of the R Foundation for Statistical …",,1,2011,13661587221721188943,1qzjygNMrQYC
+wwd3vdEAAAAJ,Visually monitoring the 2008 election,"L Mosley, D Cook, H Hofmann, C Kielion, B Schloerke",Chance,"23 (3), 4-4",1,2010,7773042300992493086,p2g8aNsByqUC
+wwd3vdEAAAAJ,Explorase: Multivariate exploratory analysis and visualization for systems biology,"ES Wurtele, H Babka, EK Lee, D Cook, M Lawrence",Journal of Statistical Software,25 (09),1,2008,9463781175430678095,HoB7MX3m0LUC
+wwd3vdEAAAAJ,Exploring cluster analysis,"H Wickham, H Hofmann, D Cook",,,1,2006,4008181344960858863,MStqg_gSLBcC
+wwd3vdEAAAAJ,GENEGOBI: Visual Data Analysis Aid Tools for Microarray Data,"EK Lee, D Cook, E Wurtele, D Kim, J Kim, H An",Computational Statistics,,1,2004,2227848333458702407,M05iB0D1s5AC
+wwd3vdEAAAAJ,"Visual Data Mining of Large, Multivariate Space-Time Data",D Cook,AGU Fall Meeting Abstracts,,1,2001,809044980255235368,3YQzwbzlpKYC
+wwd3vdEAAAAJ,Exploring associations among mid-Atlantic stream indicators using dynamic multivariate graphics and geographic mapping in a highly immersive virtual reality environment,"D Cook, L Nelson, C Cruz-Neira, J Symanzik, A Olsen, S Pierson, ...",,,1,1997,9490221878135809975,SeFeTyx0c_EC
+wwd3vdEAAAAJ,Kernel-based projection pursuit indices in XGobi,"S Klinke, D Cook",Techreport#,"37, Humboldt University of Berlin",1,1995,618599685085464043,ldfaerwXgEUC
+wwd3vdEAAAAJ,An Analysis of Polynomial-Based Projection Pursuit,"D Cook, A Buja, J Cabrera",COMPUTING SCIENCE AND STATISTICS,478-478,1,1993,17296969747927244526,ZHo1McVdvXMC
+wwd3vdEAAAAJ,Grand Tour and projection pursuit: Exploring multivariate data using projections,DH Cook,State University of New Jersey,,1,1993,259376883367434152,2P1L_qKh6hAC
+wwd3vdEAAAAJ,Pixel averaging smooths graphics effects,D Cook,Creative Computing,"9 (1), 146-&",1,1983,2198648371736399631,n2kG1_zAmykC
+wwd3vdEAAAAJ,Dynamic Graphics in a GIS: Exploring and An-alyzing Multivariate Spatial Data Using Linked Software,"D Cook, JJ Majure, J urgen Symanzik, N Cressie",,,1,NA,16867296172093400505,F-1HeU7gMOYC
+wwd3vdEAAAAJ,Calendar-based graphics for visualizing people's daily schedules,"E Wang, D Cook, RJ Hyndman",arXiv preprint arXiv:,:1810.09624,0,2018,NA,bXvxhPDrUX0C
+wwd3vdEAAAAJ,"Expanding tidy data principles to facilitate missing data exploration, visualization and assessment of imputations","NJ Tierney, DH Cook",arXiv preprint arXiv:,:1809.02264,0,2018,NA,aXwx4OqTWR4C
+wwd3vdEAAAAJ,A Projection Pursuit Forest Algorithm for Supervised Classification,"N da Silva, D Cook, EK Lee",arXiv preprint arXiv:,:1807.07207,0,2018,NA,StPPYsf1FV0C
+wwd3vdEAAAAJ,An attributional analysis of reactions to stigmas,"P Hegarty, M Adelman, DN Ader, SB Johnson, JE Aguero, L Bloch, ...",A Recent History of Lesbian and Gay Psychology: From Homophobia to LGBT,6 (2 …,0,2018,NA,6jAoOr-ogVAC
+wwd3vdEAAAAJ,Measuring Lineup Difficulty By Matching Distance Metrics With Subject Choices in Crowd-Sourced Data,"NR Chowdhury, D Cook, H Hofmann, M Majumder",Journal of Computational and Graphical Statistics,"27 (1), 132-145",0,2018,NA,dw5aoL0HVgwC
+wwd3vdEAAAAJ,plyranges: A grammar of genomic data transformation,"S Lee, D Cook, M Lawrence",bioRxiv,327841,0,2018,NA,M3hCyctIOBoC
+wwd3vdEAAAAJ,A First Survey on the Diversity of the R Community,"S Bollmann, D Cook, J Dumas, J Fox, J Josse, O Keyes, C Strobl, ...",R JOURNAL,"9 (2), 541-552",0,2017,NA,mRAYM1lGiDwC
+wwd3vdEAAAAJ,Package ‘tourr’,"D Cook, H Wickham, MH Wickham, S TeachingDemos",,,0,2017,NA,Fu2w8maKXqMC
+wwd3vdEAAAAJ,Escape from Boxland,"B Schloerke, H Wickham, D Cook, H Hofmann",The R Journal,"8 (2), 243-257",0,2016,NA,ZM__uENUXnMC
+wwd3vdEAAAAJ,Pregnancy and Hypertension,"ZY Grace, CYL Aye, AJ Lewandowski, EF Davis, CP Khoo, L Newton, ...",Hypertension,,0,2016,NA,JQPmwQThujIC
+wwd3vdEAAAAJ,Package ‘MissingDataGUI’,"X Cheng, D Cook, H Hofmann, MX Cheng",,,0,2016,NA,VFGfXyYpp08C
+wwd3vdEAAAAJ,MissingDataGUI: A Graphical User Interface for Exploring Missing Values in Data,"X Cheng, D Cook, H Hofmann",,,0,2016,NA,xtRiw3GOFMkC
+wwd3vdEAAAAJ,Jam-a is highly expressed on human hematopoietic repopulating cells and associates with the key hematopoietic chemokine receptor cxcr4.,"S Watt, CH Chang, S Hale, C Cox, A Blair, B Kronsteiner, R Grabowska, ...",Stem cells,,0,2016,NA,xMZGxf1v-3YC
+wwd3vdEAAAAJ,Visualizing communication patterns at DinoFun World,"H Hofmann, D Cook, A Kaplan, E Hare, V Leos-Barajas, C Sievert, ...",Visual Analytics Science and Technology (VAST),"2015 IEEE Conference on, 161-162",0,2015,NA,9w-KRoa3VEQC
+wwd3vdEAAAAJ,On the move at DinoFun world,"H Hofmann, D Cook, A Kaplan, E Hare, V Leos-Barajas, C Sievert, ...",Visual Analytics Science and Technology (VAST),"2015 IEEE Conference on, 159-160",0,2015,NA,eP5N1itS6b0C
+wwd3vdEAAAAJ,Algorithms for Envelope Estimation II,"D Cook, L Forzani, Z Su",arXiv preprint arXiv:,:1509.03767,0,2015,NA,lYbyOjaXH8MC
+wwd3vdEAAAAJ,"Discussion of"" Visualizing Statistical Models: Removing the Blindfold"" Response","H Wickham, D Cook, H Hofmann",STATISTICAL ANALYSIS AND DATA MINING,"8 (4), 242-244",0,2015,NA,BMiRioqqltAC
+wwd3vdEAAAAJ,Better Diagnostics for Linear Mixed-Effects Models Using Visual Inference,"A Loy, H Hofmann, D Cook",arXiv preprint arXiv:,:1502.06988,0,2015,NA,uc_IGeMz5qoC
+wwd3vdEAAAAJ,Four Papers on Contemporary Software Design Strategies for Statistical Methodologists,"V Carey, D Cook",arXiv preprint arXiv:,:1409.8415,0,2014,NA,z_wVstp3MssC
+wwd3vdEAAAAJ,Package ‘explorase’,"M Lawrence, E Lee, D Cook, J Kim, H An, D Kim, MM Lawrence",,,0,2014,NA,6B7w4NK6UsoC
+wwd3vdEAAAAJ,Coenonympha haydenii Responds to Drought,"DM Debinski, J Caruthers, D Cook, J Crowley, H Wickham",The Bulletin of the Ecological Society of America,"94 (2), 182-182",0,2013,NA,PELIpwtuRlgC
+wwd3vdEAAAAJ,KICKING AND SCREAMING ABOUT STATISTICS: HOW SOCCER DATA CAN POTENTIALLY ALLEVIATE STATISTICAL ANXIETY,"J Sanchez, MKR Minosa, D Cook, J Masegela",,,0,2013,NA,a0OBvERweLwC
+wwd3vdEAAAAJ,Package ‘biovizBase’,"T Yin, M Lawrence, D Cook, MT Yin, LL Yes",,,0,2013,NA,7T2F9Uy0os0C
+wwd3vdEAAAAJ,CHROMATOPLOTS: A PIPELINE BASED R PACKAGE FOR THE PRE-PROCESSING OF GC-MS METABOLOMICS DATA.,"T Yin, M Lawrence, S Choi, M Vendettuoli, H Hofmann, D Cook, E Wurtele","Visualization of biological data: Infrastructure, design and application",61,0,2013,NA,WqliGbK-hY8C
+wwd3vdEAAAAJ,. VISUAL INFERENCE FOR LINEAR MIXED-EFFECTS MODELS,"A Loy, H Hofmann, D Cook",Diagnostics for mixed/hierarchical linear models,170,0,2013,NA,olpn-zPbct0C
+wwd3vdEAAAAJ,GGBIO: AN R IMPLEMENTATION FOR EXTENDING THE GRAMMAR OF GRAPHICS FOR GENOMIC DATA,"T Yin, D Cook, M Lawrence","Visualization of biological data: Infrastructure, design and application",6,0,2013,NA,uWQEDVKXjbEC
+wwd3vdEAAAAJ,BIOVIZBASE: INFRASTRUCTURE PACKAGES FOR BIOLOGICAL DATA VISUALIZATION,"T Yin, M Lawrence, D Cook","Visualization of biological data: Infrastructure, design and application",32,0,2013,NA,UxriW0iASnsC
+wwd3vdEAAAAJ,Evaluating ammonia and temperature-ammonia combination preferences of pullets and young laying hens,"M Hayes, H Xin, H Li, D Cook",Environmental and energy assessment of an aviary laying-hen housing system …,,0,2012,NA,aK62MiYD7mUC
+wwd3vdEAAAAJ,R Graphics,"D Cook, H Hofmann",Journal of Statistical Software,"43 (1), 1-4",0,2011,NA,cFHS6HbyZ2cC
+wwd3vdEAAAAJ,Visualization and analysis of multiobjective solutions to the energy and transportation investment optimization problem,"E Ibánez, D Cook",,,0,2011,NA,kzcrU_BdoSEC
+wwd3vdEAAAAJ,Finding Interesting Genes Using Reliability in Various Gene Expression Models,"EK Lee, D Cook, H Hoffman",Genomics & Informatics,"9 (1), 28-36",0,2011,NA,wbdj-CoPYUoC
+wwd3vdEAAAAJ,Map Line-ups: using graphical inference to study spatial structure,"H Wickham, D Cook, H Hofmann, A Buja",IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS,16 (6),0,2010,NA,YnriW4MgZhwC
+wwd3vdEAAAAJ,1 Overview of exploRase,"M Lawrence, D Cook, EK Lee",,,0,2010,NA,u_35RYKgDlwC
+wwd3vdEAAAAJ,Monitoring the 2008 Election Visually,"L Mosley, D Cook, H Hofmann, C Kielion, B Schloerke",,,0,2010,NA,N7YTE_TVRugC
+wwd3vdEAAAAJ,Case Study: Wages,D Cook,,,0,2010,NA,yBxuCEhX224C
+wwd3vdEAAAAJ,"Hope Destroyed, Justice Denied: The Rape of Palestine",WA Cook,The Plight of the Palestinians,221-232,0,2010,NA,ult01sCh7k0C
+wwd3vdEAAAAJ,qtpaintgui ()-An integration of Command Line and Graphical User Interface.,"M Vendettuoli, D Cook, H Hofmann",BIOCOMP,624-629,0,2010,NA,OU6Ihb5iCvQC
+wwd3vdEAAAAJ,Multivariate exploratory analysis and,"M Lawrence, D Cook, E Lee",,,0,2009,NA,EGhj4itiAA0C
+wwd3vdEAAAAJ,Dynamic Graphics,D Cook,Encyclopedia of Database Systems,950-954,0,2009,NA,D_sINldO8mEC
+wwd3vdEAAAAJ,METABOLOMIC AND TRANSCRIPTOMIC ANALYSIS OF POLYHYDROXYBUTYRATE (PHB) ACCUMULATING ARABIDOPSIS UNVEIL METABOLIC CONSEQUENCES OF A FOREIGN ACETYL-COA SINK IN PLANT PLASTIDS,"SY Choi, D Cook, H Ilarslan, K Snell, BJ Nikolau, ES Wurtele",Metabolomic and transcriptomic analysis of polyhydroxybutyrate (PHB …,,0,2009,NA,nb7KW1ujOQ8C
+wwd3vdEAAAAJ,Comments on The Future of Statistical Computing,"L Wilkinson, JM Chambers, RW Oldford, D Bates, P Hanrahan, D Cook, ...",Technometrics,50 (4),0,2008,NA,npT69zEmqdIC
+wwd3vdEAAAAJ,Comment by Cook,"D Cook, H Wickham",Technometrics,50 (4),0,2008,NA,rO6llkc54NcC
+wwd3vdEAAAAJ,The Future of Statistical Computing. Comment.,"D Cook, H Wickham","Technometrics: A journal of statistics for the physical, chemical and …",,0,2008,NA,AbS6eEh_b9AC
+wwd3vdEAAAAJ,R Graphics,"H Wickham, D Cook",The American Statistician,"61 (1), 99-100",0,2007,NA,1sJd4Hv_s6UC
+wwd3vdEAAAAJ,Supervised Classification,"D Cook, DF Swayne",Interactive and Dynamic Graphics for Data Analysis: With R and Ggobi,63-101,0,2007,NA,WA5NYHcadZ8C
+wwd3vdEAAAAJ,Datasets,"D Cook, DF Swayne",Interactive and Dynamic Graphics for Data Analysis: With R and Ggobi,153-175,0,2007,NA,sSrBHYA8nusC
+wwd3vdEAAAAJ,Miscellaneous Topics,"D Cook, DF Swayne",Interactive and Dynamic Graphics for Data Analysis: With R and Ggobi,129-152,0,2007,NA,vRqMK49ujn8C
+wwd3vdEAAAAJ,Missing Values,"D Cook, DF Swayne",Interactive and Dynamic Graphics for Data Analysis: With R and Ggobi,47-62,0,2007,NA,XiSMed-E-HIC
+wwd3vdEAAAAJ,2006 Reviewers List,"B Adams, A Agarwala, M Agrawala, M Agus, I Albrecht, J Anderson, ...",IEEE Transactions on Visualization and Computer Graphics,"13 (1), 190",0,2007,NA,_xSYboBqXhAC
+wwd3vdEAAAAJ,TheToolbox,"D Cook, DF Swayne",Interactive and Dynamic Graphics for Data Analysis: With R and Ggobi,17-45,0,2007,NA,yD5IFk8b50cC
+wwd3vdEAAAAJ,Reviews of Books and Teaching Materials-R Graphics,"H Wickham, D Cook",American Statistician,"61 (1), 99",0,2007,NA,4OULZ7Gr8RgC
+wwd3vdEAAAAJ,ggobi Manual,"D Cook, DT Lang, H Wickham, M Lawrence",,,0,2006,NA,J-pR_7NvFogC
+wwd3vdEAAAAJ,Manual for ggobi,"D Cook, DT Lang, H Wickham, M Lawrence",,,0,2006,NA,wyoMR1qFDH8C
+wwd3vdEAAAAJ,Rotating Plots,"D Cook, L Miller",Graphics of Large Datasets,125-141,0,2006,NA,_B80troHkn4C
+wwd3vdEAAAAJ,DYNAMIC AND INTERACTIVE GRAPHICAL METHODS FOR ANIMAL BREEDING,"H Wickham, A Cromie, D Cook",Proceedings of the,8th World Congress on Genetics Applied to Livestock …,0,2006,NA,KxtntwgDAa4C
+wwd3vdEAAAAJ,"Raising Consumers: Children and the American Mass Market in the Early Twentieth Century. By Lisa Jacobson. New York: Columbia University Press, 2004. xiii + …",DT Cook,Business History Review,"79 (4), 883-886",0,2005,NA,9LrdxYebArsC
+wwd3vdEAAAAJ,2004 Reviewers List,"K Akeley, D Aliaga, N Amenta, K Anjyo, M Ankerst, O Arikan, M Ashikhmin, ...",IEEE Transactions on Visualization and Computer Graphics,"11 (1), 110",0,2005,NA,t6usbXjVLHcC
+wwd3vdEAAAAJ,Theory of Dynamic Projections in High-Dimensional Data Visualization,"ABD COOK, D ASIMOV, C HURLEY",,,0,2004,NA,_Ybze24A_UAC
+wwd3vdEAAAAJ,Computational Methods for High-Dimensional Rotations in Data Visualization,"ABD COOK, D ASIMOV, C HURLEY",,,0,2004,NA,uLbwQdceFCQC
+wwd3vdEAAAAJ,Treatment of Sarin Exposure,"P DeBalli, DR Cook",JAMA,"291 (2), 181-181",0,2004,NA,BulkYocH2doC
+wwd3vdEAAAAJ,High dimensional system design using genetic algorithms & visualization,"X Fang, B Kellogg, T Conlan, J Dickerson, D Cook",American Control Conference,"2003. Proceedings of the 2003 6, 4561-4566",0,2003,NA,oi8PhiKYDwsC
+wwd3vdEAAAAJ,Interactive and Dynamic Graphics for Data Analysis: A Case Study On Quasar Data,D Cook,Statistical Challenges in Astronomy,255-264,0,2003,NA,bnK-pcrLprsC
+wwd3vdEAAAAJ,Computational AstroStatistics: Fast and Efficient Tools for Analysing Huge Astronomical Data Sources-Commentary,D Cook,Statistical Challenges in Astronomy,277,0,2003,NA,BrmTIyaxlBUC
+wwd3vdEAAAAJ,Challenges for Cluster Analysis in a Virtual Observatory-Commentary,D Cook,Statistical Challenges in Astronomy,138,0,2003,NA,WbkHhVStYXYC
+wwd3vdEAAAAJ,Featured Review: The Visual Display of Quantitative Information,D Cook,SIAM Review,"44 (3), 479-483",0,2002,NA,W91e3rS6dHEC
+wwd3vdEAAAAJ,Visualising high-dimensional data in time and space: ideas from the Orca project,"T Lumley, P Sutherland, A Rossini, N Lewin-Koh, D Cook, Z Cox",Chemometrics and intelligent laboratory systems,"60 (1-2), 189-195",0,2002,NA,Usae8uB1euoC
+wwd3vdEAAAAJ,Interactive Visualization Tools for Exploring Multivariate Atmospheric Science Data,"TJ Brown, D Cook, M Macędo",,15th Conference on Probability and Statistics in the Atmospheric Sciences,0,2e3,NA,VOx2b1Wkg3QC
+wwd3vdEAAAAJ,Visualization and case reduction in multivariate data clustering,"S Kwon, DH Cook",Visual Data Exploration and Analysis VII,"3960, 211-218",0,2e3,NA,08ZZubdj9fEC
+wwd3vdEAAAAJ,Aniseikonia.,"D Cook, LM Cook",Journal of the American Optometric Association,"70 (1), 10",0,1999,NA,121WXH0ir18C
+wwd3vdEAAAAJ,"ORCA: A Project in Platform-Independent, Distributed Data Visualisation","T Lumley, P Sutherland, T Rossini, D Cook",COMPUTING SCIENCE AND STATISTICS,345-345,0,1999,NA,CHSYGLWDkRkC
+wwd3vdEAAAAJ,"Business Strategy, Technology Policy and Firm Performance","G Alpander, C Botter, S Amba-Rao, D Pendse, CR Anderson, ...",Gender and Successful Human Resource Decisions in Small Businesses,"10 (2), 3-10",0,1998,NA,o_fBUN_Or78C
+wwd3vdEAAAAJ,Promoting Children's Hope Through Storytelling,"CR Snyder, D Mcdermott, W Cook, MA Rapoff, JE Gillham, KJ Reivich",Psyccritiques,"43 (12), 865-867",0,1998,NA,-rwTIRUNLawC
+wwd3vdEAAAAJ,Data Mining Soil Characteristics A ecting Corn Yield,"WF Christensen, D Cook",,,0,1998,NA,D90uR9ClOh8C
+wwd3vdEAAAAJ,andANDREAS BUJA 3,"DF SWAYNE, D COOK",,,0,1998,NA,5ugPr518TE4C
+wwd3vdEAAAAJ,Principles of Graphics for High-Dimensional Data,D Cook,,,0,1998,NA,V-j82LJCZ3MC
+wwd3vdEAAAAJ,Roadrunners,WE Cook,Avian Desert Predators,53-70,0,1997,NA,QxtoOqDH1aQC
+wwd3vdEAAAAJ,Vultures,WE Cook,Avian Desert Predators,15-30,0,1997,NA,lDOOmgye57wC
+wwd3vdEAAAAJ,Shrikes,WE Cook,Avian Desert Predators,97-110,0,1997,NA,Y1W0x10ZrwMC
+wwd3vdEAAAAJ,Hawks and Allies,WE Cook,Avian Desert Predators,31-52,0,1997,NA,HOg0WoviCygC
+wwd3vdEAAAAJ,Owls,WE Cook,Avian Desert Predators,71-96,0,1997,NA,fhZv66dCuXAC
+wwd3vdEAAAAJ,Escape from Pillai Tree,D Cook,COMPUTING SCIENCE AND STATISTICS,352-360,0,1997,NA,eMMeJKvmdy0C
+wwd3vdEAAAAJ,Massive data sets: problems and possibilities with application to environmental modeling,"NA Cressie, A Olsen, D Cook",,,0,1996,NA,hKmHnHMtuq0C
+wwd3vdEAAAAJ,"Greg M. ALLENBY Max M. Fisher College of Business, The Ohio State University, Columbus, OH 43210","WS Cleveland, S Data, D Cook, A Buja, J Cabrera",Journal of Business & Economic Statistics,,0,1996,NA,EkHepimYqZsC
+wwd3vdEAAAAJ,Invited Papers by Topic,"SC Morton, D Cook, W Stuetzle, A Buja, D Herrmann, LW Pickle, ...",Proceedings of the Section on Statistical Graphics,1,0,1994,NA,fSKd39tHJ84C
+wwd3vdEAAAAJ,An Interactive Approach to Exploratory Time Series Analysis,"A McDougall, D Cook",COMPUTING SCIENCE AND STATISTICS,366-366,0,1993,NA,HE397vMXCloC
+wwd3vdEAAAAJ,Ad Hoc Reviewers (1991),"J Bogousslavsky, M Hennerici, RW Baloh, B á Rogvi-Hansen, G Boysen, ...",Cerebrovascular Diseases,"2 (1), 2-2",0,1992,NA,9PmR9Y676FQC
+wwd3vdEAAAAJ,Direction and Motion Control in the Ground Tour,"D Cook, A Buja, J Cabrera",RUTGERS-THE STATE UNIV NEW BRUNSWICK NJ,,0,1992,NA,EVKlETVVbN8C
+wwd3vdEAAAAJ,NOTICES OF THE SOCIETY,GE Mercer,Journal of the Royal Society of Arts,545-562,0,1973,NA,dshw04ExmUIC
+wwd3vdEAAAAJ,The names listed refer to literature references appearing in the text. A separate list of names appearing in the Appendixes is given on page 515.,"AL Allred, P Diehl, CH Anderson, G Doggett, ER Andrew, MR Bailer, ...",,,0,NA,NA,IaRkJ05COeQC
+wwd3vdEAAAAJ,journal homepage: www. elsevier. com/locate/ijpara,"P Abad, BJ Adams, PN Adams, CM Adema, RD Adlard, E Åhlin, JW Ajioka, ...",,,0,NA,NA,8s22W2WWFy4C
+wwd3vdEAAAAJ,JSSJournal of Statistical Software,"D Cook, Z Su, Y Yang",,,0,NA,NA,BHd7YmozNHgC
+wwd3vdEAAAAJ,Improvements and Tools for the ArcView {XGobi Link,"N Lewin-Koh, D Cook",,,0,NA,NA,knQODA9bSJkC
+wwd3vdEAAAAJ,Reviewer: Pedro Valero-Mora University of Valencia,"D Cook, DF Swayne",,,0,NA,NA,lRzkMCTRmMwC
+wwd3vdEAAAAJ,Local Bivariate Indicators for Spatial Association in an Interactive Graphical Environment.,"N Lewin, D Cook, J Symanzik",,,0,NA,NA,8xglSJ46CyEC
+wwd3vdEAAAAJ,T-KDE Sep-Oct 97 697-708,"BR Badrinath, L Baekgaard, M Benaroch, E Bertino, PM Bober, ...",,,0,NA,NA,ECvNt0vk_34C
+wwd3vdEAAAAJ,The curse of three dimensions: Why your brain is lying to you,"S VanderPlas, H Hofmann, D COOK",,,0,NA,NA,ipzZ9siozwsC
+wwd3vdEAAAAJ,Supplementary Material for “Statistical Inference for Exploratory Data Analysis and Model Diagnostics”,"A Buja, D Cook, H Hofmann, M Lawrence, E Lee, DF Swayne, H Wickham",,,0,NA,NA,SdhP9T11ey4C
+wwd3vdEAAAAJ,Implementation Issues of Variogram Cloud Plots and Spatially Lagged Scatterplots in the Linked ArcView 2.1TM and XGobi Environment,"J urgen Symanzik, I Megretskaia, JJ Majure, D Cook",,,0,NA,NA,JoZmwDi-zQgC
+wwd3vdEAAAAJ,Projection Pursuit Indices Based On,"D Cook, A Buja, J Cabrera",,,0,NA,NA,AXPGKjj_ei8C
+wwd3vdEAAAAJ,SUGGESTED REVIEWERS,"A Buja, D Cook, J DeLeeuw, J Gentle, MM Meyer, D Nolan, B Narasimhan, ...",,,0,NA,NA,Mojj43d5GZwC
+wwd3vdEAAAAJ,"Points, Curves and Haystacks: Datavis and Metabolomics","M Vendettuoli, D Cook, H Hofmann",,,0,NA,NA,XiVPGOgt02cC
+wwd3vdEAAAAJ,Demonstration of the ArcView XGobi XploRe Environment,"D Cook, J urgen Symanzik",,,0,NA,NA,mvPsJ3kp5DgC
+wwd3vdEAAAAJ,Graphical Methods for Exploratory Multivariate Longitudinal Data Analysis,"O Ilk, D Cook",,,0,NA,NA,eflP2zaiRacC
+wwd3vdEAAAAJ,Spatial Data Analysis in the Dynamically Linked ArcView/XGobi/XploRe Environment,"S Schmelzer, S Klinke, D Cook, DF Swayne",,,0,NA,NA,LPZeul_q3PIC
+wwd3vdEAAAAJ,Dynamic Statistical Graphics in the CAVE Virtual Reality Environment,"J urgen Symanzik, D Cook, BD Kohlmeyer, CC Neira",,,0,NA,NA,4fKUyHm3Qg0C
+wwd3vdEAAAAJ,MetNet Systems Biology Software for Arabidopsis. METNET: systems Biology tools for arabidopsis,"ES Wurtele, L Li, D Berleant, D Cook, JA Dickerson, H Hofmann, J Li, ...",,,0,NA,NA,tS2w5q8j5-wC
+wwd3vdEAAAAJ,Dynamic Visualization of Clusters,"SS Kim, S Kwon, D Cook",,,0,NA,NA,tOudhMTPpwUC
+wwd3vdEAAAAJ,Dynamic Graphics in a GIS: A Bidirectional Link between ArcView 2.0TM and XGobi,"J urgen Symanzik, JJ Majure, D Cook",,,0,NA,NA,Tiz5es2fbqcC
+wwd3vdEAAAAJ,"J urgen Symanzik, George Mason University, Sigbert Klinke, Swetlana Schmelzer, Humboldt {Universit at zu Berlin, Dianne Cook, Nicholas Lewin, Iowa State University. J urgen …",D Cook,,,0,NA,NA,abG-DnoFyZgC
+wwd3vdEAAAAJ,"Departments of: 1. Genetics, Development and Cell Biology, 2 Statistics, 3 Electrical and Computer Engineering 4 Computer Science 5 Biochemistry Biophysics and Molecular …","ES Wurtele, L Li, D Berleant, D Cook, JA Dickerson, J Ding, H Hofmann, ...",,,0,NA,NA,b0M2c_1WBrUC
+wwd3vdEAAAAJ,"Deborah F. Swayne Duncan Temple Lang AT&T Labs–Research Bell Laboratories Florham Park, NJ 07932 Lucent Technologies dfs@ research. att. com Murray Hill, NJ","A Buja, D Cook",,,0,NA,NA,f2IySw72cVMC
+wwd3vdEAAAAJ,Linking ArcView 3.0TM and XGobi: Insight Behind the Front End,"J urgen Symanzik, D Cook, N Lewin-Koh, JJ Majure, I Megretskaia",,,0,NA,NA,pyW8ca7W8N0C
+wwd3vdEAAAAJ,"George Mason University Center for Computational Statistics 4A7 Fairfax, VA 22030","J Symanzik, D Cook, S Klinke, N Lewin",,,0,NA,NA,D03iK_w7-QYC
+wwd3vdEAAAAJ,Computational and Graphical Statistics,"TCM Lee, J Wallace, E Sampson, E Leis, A Buja, WF Eddy, G Marsaglia, ...",,,0,NA,NA,dfsIfKJdRG4C
+wwd3vdEAAAAJ,THE ARCVIEW/XGOBI/XPLORE ENVIRONMENT: TECHNICAL DETAILS AND APPLICATIONS FOR SPATIAL DATA ANALYSIS,"J urgen Symanzik, D Cook, N Lewin",,,0,NA,NA,fPk4N6BV_jEC
+wwd3vdEAAAAJ,Journal of Computational and Graphical Statistics,"A Afifi, KF Hirji, DM Bashtannyk, BM Broom, A Buja, D Cook, DF Swayne",Journal of Computational and Graphical Statistics,"5 (4), 418-41",0,NA,NA,zA6iFVUQeVQC
+XOnCgewAAAAJ,Forecasting: principles and practice,"RJ Hyndman, G Athanasopoulos",OTexts,,1006,2018,10783463585844978967,9ZlFYXVOiuMC
+XOnCgewAAAAJ,forecast: Forecasting functions for time series and linear models,"RJ Hyndman, G Athanasopoulos, C Bergmeir, G Caceres, L Chhay, ...",,,350,2018,13993078942026604769,qUcmZB5y_30C
+XOnCgewAAAAJ,Optimal combination forecasts for hierarchical time series,"RJ Hyndman, RA Ahmed, G Athanasopoulos, HL Shang",Computational Statistics & Data Analysis,"55 (9), 2579-2589",172,2011,3157144317829980351,zYLM7Y9cAGgC
+XOnCgewAAAAJ,Modelling and forecasting Australian domestic tourism,"G Athanasopoulos, RJ Hyndman",Tourism Management,"29 (1), 19-31",151,2008,10898851038299353033,QIV2ME_5wuYC
+XOnCgewAAAAJ,The tourism forecasting competition,"G Athanasopoulos, RJ Hyndman, H Song, DC Wu",International Journal of Forecasting,"27 (3), 822-844",116,2011,16370185820747070485,R3hNpaxXUhUC
+XOnCgewAAAAJ,Hierarchical forecasts for Australian domestic tourism,"G Athanasopoulos, RA Ahmed, RJ Hyndman",International Journal of Forecasting,"25 (1), 146-166",81,2009,14293450315704477267,-f6ydRqryjwC
+XOnCgewAAAAJ,VARMA versus VAR for macroeconomic forecasting,"G Athanasopoulos, F Vahid",Journal of Business & Economic Statistics,"26 (2), 237-252",70,2008,5257374275838071873,_FxGoFyzp5QC
+XOnCgewAAAAJ,Forecasting tourist arrivals using time-varying parameter structural time series models,"H Song, G Li, SF Witt, G Athanasopoulos",International Journal of Forecasting,"27 (3), 855-869",66,2011,17148323098113718050,r0BpntZqJG4C
+XOnCgewAAAAJ,"forecast: Forecasting functions for time series and linear models, 2013","RJ Hyndman, G Athanasopoulos, S Razbash, D Schmidt, Z Zhou, Y Khan, ...",R package version,,57,NA,17289771066273972086,iH-uZ7U-co4C
+XOnCgewAAAAJ,Statistical inference and changes in income inequality in Australia,"G Athanasopoulos, F Vahid",Economic Record,"79 (247), 412-424",52,2003,7247149750532730674,5nxA0vEk-isC
+XOnCgewAAAAJ,Modelling Australian domestic and international inbound travel: a spatial–temporal approach,"M Deng, G Athanasopoulos",Tourism management,"32 (5), 1075-1084",47,2011,17935179735310877018,maZDTaKrznsC
+XOnCgewAAAAJ,A complete VARMA modelling methodology based on scalar components,"G Athanasopoulos, F Vahid",Journal of Time Series Analysis,"29 (3), 533-554",43,2008,8729408066220429488,Zph67rFs4hoC
+XOnCgewAAAAJ,Forecasting with temporal hierarchies,"G Athanasopoulos, RJ Hyndman, N Kourentzes, F Petropoulos",European Journal of Operational Research,"262 (1), 60-74",35,2017,9205870733822850904,M3ejUd6NZC8C
+XOnCgewAAAAJ,Multivariate exponential smoothing for forecasting tourist arrivals,"G Athanasopoulos, A de Silva",Journal of Travel Research,"51 (5), 640-652",33,2012,2577395273240497791,qjMakFHDy7sC
+XOnCgewAAAAJ,Structural VAR models for Malaysian monetary policy analysis during the pre-and post-1997 Asian crisis periods,"M Raghavan, P Silvapulle, G Athanasopoulos",Applied Economics,"44 (29), 3841-3856",30,2012,9013857650734100059,_kc_bZDykSQC
+XOnCgewAAAAJ,Forecasting: Principles and Practice. OTexts; 2014,"RJ Hyndman, G Athanasopoulos",The book is freely available as an online book at www. otexts. org/fpp …,,29,2017,10071339737942933740,Wp0gIr-vW9MC
+XOnCgewAAAAJ,Beyond point forecasting: evaluation of alternative prediction intervals for tourist arrivals,"JH Kim, K Wong, G Athanasopoulos, S Liu",International Journal of Forecasting,"27 (3), 887-901",29,2011,16357507532147455046,TQgYirikUcIC
+XOnCgewAAAAJ,"Model selection, estimation and forecasting in VAR models with short-run and long-run restrictions","G Athanasopoulos, OT de Carvalho Guillén, JV Issler, F Vahid",Journal of Econometrics,"164 (1), 116-129",25,2011,17914369451155307582,k_IJM867U9cC
+XOnCgewAAAAJ,"Forecasting: principles and practice. otexts: Melbourne, australia","RJ Hyndman, G Athanasopoulos",,,24,2013,12494545358512521737,GnPB-g6toBAC
+XOnCgewAAAAJ,Package ‘forecast’,"RJ Hyndman, G Athanasopoulos, C Bergmeir, G Caceres, L Chhay, ...",Online] https://cran. r-project. org/web/packages/forecast/forecast. pdf,,22,2018,5762948806696356902,JV2RwH3_ST0C
+XOnCgewAAAAJ,Nonlinear autoregressive leading indicator models of output in G‐7 countries,"HM Anderson, G Athanasopoulos, F Vahid",Journal of Applied Econometrics,"22 (1), 63-87",22,2007,1558094265001174891,9yKSN-GCB0IC
+XOnCgewAAAAJ,The value of feedback in forecasting competitions,"G Athanasopoulos, RJ Hyndman",International Journal of Forecasting,"27 (3), 845-849",20,2011,8674710296993847761,KlAtU1dfN6UC
+XOnCgewAAAAJ,Modelling substitution between domestic and outbound tourism in Australia: A system-of-equations approach,"G Athanasopoulos, M Deng, G Li, H Song",Tourism Management,"45, 159-170",18,2014,1838288618815120627,2osOgNQ5qMEC
+XOnCgewAAAAJ,Forecasting hierarchical and grouped time series through trace minimization,"SL Wickramasuriya, G Athanasopoulos, RJ Hyndman",working paper,"15/15, Department of Econometrics & Business Statistics …",16,2015,13110060053446104204,ZeXyd9-uunAC
+XOnCgewAAAAJ,Two canonical VARMA forms: Scalar component models vis-à-vis the Echelon form,"G Athanasopoulos, DS Poskitt, F Vahid",Econometric Reviews,"31 (1), 60-83",16,2012,13081382062168434180,L8Ckcad2t8MC
+XOnCgewAAAAJ,Economic inequality in Australia between 1983 and 2010: a stochastic dominance analysis,"MR Valenzuela, HH Lean, G Athanasopoulos",Economic Record,"90 (288), 49-62",9,2014,8787649944719604683,ULOm3_A8WrAC
+XOnCgewAAAAJ,Optimally reconciling forecasts in a hierarchy,"RJ Hyndman, G Athanasopoulos",Foresight: The International Journal of Applied Forecasting,42-48,9,2014,5045235026420592139,WF5omc3nYNoC
+XOnCgewAAAAJ,Essays on alternative methods of identification and estimation of vector autoregressive moving average models,"G Athanasopoulos, F Vahid",Monash University,,8,2005,16425341945483382908,e5wmG9Sq2KIC
+XOnCgewAAAAJ,Canadian monetary policy analysis using a structural VARMA model,"M Raghavan, G Athanasopoulos, P Silvapulle",Canadian Journal of Economics/Revue canadienne d'économique,"49 (1), 347-373",6,2016,4365867178517945458,YsMSGLbcyi4C
+XOnCgewAAAAJ,VARMA models for Malaysian monetary policy analysis,"M Raghavan, G Athanasopoulos, P Silvapulle","Department of Econometrics and Business Statistics, Monash University …",,6,2009,15975165376905612319,mB3voiENLucC
+XOnCgewAAAAJ,Optimal forecast reconciliation for hierarchical and grouped time series through trace minimization,"SL Wickramasuriya, G Athanasopoulos, RJ Hyndman",Journal of the American Statistical Association,1-45,5,2018,12641836414049534445,ufrVoPGSRksC
+XOnCgewAAAAJ,Multivariate exponential smoothing for forecasting tourist arrivals to Australia and New Zealand,"G Athanasopoulos, A de Silva",Monash Econ Bus Stat Work Papers,1737-39,5,2010,6188312197108001654,UebtZRa9Y70C
+XOnCgewAAAAJ,Bagging in Tourism Demand Modeling and Forecasting,"G Athanasopoulos, H Song, JA Sun",Journal of Travel Research,"57 (1), 52-68",4,2018,9125911310309714448,4TOpqqG69KYC
+XOnCgewAAAAJ,Macroeconomic forecasting for Australia using a large number of predictors,"B Jiang, G Athanasopoulos, RJ Hyndman, A Panagiotelis, F Vahid",Monash Econometrics and Business Statistics Working Papers,"2, 17",4,2017,9777037379427521845,aqlVkmm33-oC
+XOnCgewAAAAJ,Malaysian monetary transmission mechanism: Evidence from the pre-and post-Asian financial crisis periods,"M Raghavan, P Silvapulle, G Athanasopoulos",Management Science and Engineering (ICMSE),2010 International Conference on …,4,2010,7116907401275110483,0EnyYjriUFMC
+XOnCgewAAAAJ,Forecasting accuracy and estimation uncertainty using VAR models with short-and long-term economic restrictions: A Monte-Carlo study,"OT de Carvalho Guillén, JV Issler, G Athanasopoulos","Monash University, Department of Econometrics and Business Statistics",,4,2005,12945854327862582405,LkGwnXOMwfcC
+XOnCgewAAAAJ,Capturing the shape of business cycles with nonlinear autoregressive leading indicator models,"G Athanasopoulos, HM Anderson, F Vahid",WORKING PAPER-MONASH UNIVERSITY DEPARTMENT OF ECONOMETRICS AND BUSINESS …,,4,2001,10644964266108156607,mVmsd5A6BfQC
+XOnCgewAAAAJ,Determination of Long‐run and Short‐run Dynamics in EC‐VARMA Models via Canonical Correlations,"G Athanasopoulos, DS Poskitt, F Vahid, W Yao",Journal of Applied Econometrics,"31 (6), 1100-1119",3,2016,16614899385588353126,RHpTSmoSYBkC
+XOnCgewAAAAJ,Crude oil price forecasting based on internet concern using an extreme learning machine,"J Wang, G Athanasopoulos, RJ Hyndman, S Wang",International Journal of Forecasting,"34 (4), 665-677",2,2018,1802964063909940350,BqipwSGYUEgC
+XOnCgewAAAAJ,Bayesian Inference for the One-Factor Copula Model,"BK Tan, A Panagiotelis, G Athanasopoulos",Journal of Computational and Graphical Statistics,,2,2018,17495207135432538853,hMod-77fHWUC
+XOnCgewAAAAJ,Meta-learning how to forecast time series,"P Talagala, R Hyndman, G Athanasopoulos",Monash Econometrics and Business Statistics Working Papers,,2,2018,1140626826292064325,blknAaTinKkC
+XOnCgewAAAAJ,Measuring the Effects of Malaysian Monetary Policy: VARMA Vs. VAR Models,"M Raghavan, G Athanasopoulos, P Silvapulle","Department of Econometrics and Business Statistics, Monash University, Australia",,2,2009,16929043000380429226,j3f4tGmQtD8C
+XOnCgewAAAAJ,The Australian Macro Database: An online resource for macroeconomic research in Australia,"T Behlul, A Panagiotelis, G Athanasopoulos, RJ Hyndman, F Vahid",,,1,2017,2897079181011380778,IjCSPb-OGe4C
+XOnCgewAAAAJ,hts: An R Package for Forecasting Hierarchical or Grouped Time Series,"RJ Hyndman, G Athanasopoulos, HL Shang",R Package (Available at http://cran. unej. ac. id/web/packages/hts/vignettes …,,1,2015,3579835679295924672,Y0pCki6q_DkC
+XOnCgewAAAAJ,Department of Econometrics and Business Statistics,"G Athanasopoulos, F Vahid",,,1,2006,17566136853093963515,TFP_iSt0sucC
+XOnCgewAAAAJ,FFORMA: Feature-based Forecast Model Averaging,"P Montero-Manso, G Athanasopoulos, RJ Hyndman, TS Talagala",,,0,2018,NA,O3NaXMp0MMsC
+XOnCgewAAAAJ,Analysis of shock transmissions to a small open emerging economy using a SVARMA model,"M Raghavan, G Athanasopoulos",Economic Modelling,,0,2018,NA,YFjsv_pBGBYC
+XOnCgewAAAAJ,Probabilistic Forecasts in Hierarchical Time Series,"P Gamakumara, A Panagiotelis, G Athanasopoulos, RJ Hyndman",Monash Econometrics and Business Statistics Working Papers,,0,2018,NA,8k81kl-MbHgC
+XOnCgewAAAAJ,Bayesian Inference for a 1-Factor Copula Model,"BK Tan, A Panagiotelis, G Athanasopoulos",Monash Econometrics and Business Statistics Working Papers,,0,2017,NA,dhFuZR0502QC
+XOnCgewAAAAJ,Bayesian Rank Selection in Multivariate Regression,"B Jiang, A Panagiotelis, G Athanasopoulos, R Hyndman, F Vahid",Monash Econometrics and Business Statistics Working Papers,,0,2016,NA,4DMP91E08xMC
+XOnCgewAAAAJ,Corrigendum to:“Hierarchical forecasts for Australian domestic tourism”[International Journal of Forecasting 25 (2009) 146–166],"G Athanasopoulos, RA Ahmed, RJ Hyndman",International Journal of Forecasting,"2 (31), 585",0,2015,NA,hC7cP41nSMkC
+XOnCgewAAAAJ,Forecasting multivariate time series,"G Athanasopoulos, F Vahid",International Journal of Forecasting,"3 (31), 680-681",0,2015,NA,W7OEmFMy1HYC
+XOnCgewAAAAJ,Forecasting with EC-VARMA models,"G Athanasopoulos, D Poskitt, F Vahid, W Yao",University of Tasmania,,0,2014,NA,roLk4NBRz8UC
+XOnCgewAAAAJ,Reconciling forecasts for hierarchical and grouped time series,"RJ Hyndman, G Athanasopoulos",,,0,2014,NA,eQOLeE2rZwMC
+XOnCgewAAAAJ,Domestic and outbound tourism demand in Australia: a System-of-Equations Approach,"G Athanasopoulos, M Deng, G Li, H Song",Monash Econometrics and Business Statistics Working Papers,,0,2013,NA,d1gkVwhDpl0C
+XOnCgewAAAAJ,dm. test 17,"G Athanasopoulos, R Hyndman",Package ‘forecast’,17,0,2012,NA,kNdYIx-mwKoC
+XOnCgewAAAAJ,Principles of Business Forecasting by Keith Ord & Robert Fildes Forecasting: Principles and Practice,"R Hyndman, G Athanasopoulos",FORESIGHT,40,0,2012,NA,NMxIlDl6LWMC
+XOnCgewAAAAJ,18 dm. test,"G Athanasopoulos, R Hyndman",Package ‘forecast’,18,0,2011,NA,_Qo2XoVZTnwC
+XOnCgewAAAAJ,INTERNATIONAL PANEL OF REFEREES,"S Ackerman, M Adams, J Ahn, D Airey, N Ali, M Alpeza, M Alvarez, ...",Annals of Tourism Research,"38 (4), 1681-1691",0,2011,NA,4JMBOYKVnBMC
+XOnCgewAAAAJ,Annals Issue on Forecasting,"JHE Christensen, FX Diebold, GD Rudebusch, A Carriero, R Giacomini, ...",Elsevier,,0,2011,NA,UeHWp8X0CEIC
+XOnCgewAAAAJ,journal homepage: www. elsevier. com/locate/tourman,"A Abdallah, J Agrusa, EA Pérez, SA Ahmad, R Ahmad, D Airey, M Akal, ...",Tourism Management,"31, 966-974",0,2010,NA,u5HHmVD_uO8C
+XOnCgewAAAAJ,journal homepage: www. elsevier. com/locate/tourman,"A Abdallah, MMB Abdullah, T Abeysinghe, S Agarwal, J Agrusa, EA Pérez, ...",Tourism Management,"30, 315-323",0,2009,NA,IWHjjKOFINEC
+XOnCgewAAAAJ,"Model selection, estimation and forecasting in VAR models with short-and long-run restrictions: A Monte-Carlo study","JV Issler, O de Carvalho Guillén, G Athanasopoulos, F Vahid",XXX Meeting of the Brazilian Econometric Society,,0,2008,NA,Se3iqnhoufwC
+XOnCgewAAAAJ,"Model selection, estimation and forecasting in VAR models with short-and long-run restrictions: A Monte-Carlo study","OT de Carvalho Guillén, JV Issler, G Athanasopoulos, F Vahid",,,0,2007,NA,u-x6o8ySG0sC
+XOnCgewAAAAJ,All papers in this journal are peer-reviewed by highly qualified members of the tourism community. The Editors would like to express their sincerest thanks to the following …,"AM Abdallah, J Agrusa, EA Perez, JA Aguirre, TL Ainscough, D Airey, ...",Tourism Management,"28, 1585-1591",0,2007,NA,MXK_kJrjxJIC
+XOnCgewAAAAJ,Forecasting accuracy and estimation uncertainty using VAR models with short-and long-term economic restrictions: a Monte-Carlo study,"G Athanasopoulos, JV Issler, OTC Guillen",Fundação Getulio Vargas. Escola de Pós-graduação em Economia,,0,2005,NA,hqOjcs7Dif8C
+XOnCgewAAAAJ,Are VAR Models Good Enough?,"F Vahid, G Athanasopoulos",Econometric Society,2004 Australasian Meetings,0,2004,NA,3fE2CSJIrl8C
+XOnCgewAAAAJ,Are VAR Models Good Enough for Macro'Econometric Modelling?,"G Athanasopoulos, F Vahid",,,0,2004,NA,hFOr9nPyWt4C
+XOnCgewAAAAJ,MODELLING SUBSTITUTION BETWEEN DOMESTIC AND OUTBOUND TOURISM DEMAND IN AUSTRALIA: A System-of-Equations Approach,"G Athanasopoulos, M Deng, G Li, H Song",,,0,NA,NA,ns9cj8rnVeAC
+XOnCgewAAAAJ,2007) Nonlinear Autoregressive Leading Indicator Models of Output in G7 Countries,"HM Anderson, G Athanasopoulos, F Vahid",Journal of Applied Econometrics,,0,NA,NA,isC4tDSrTZIC
+XOnCgewAAAAJ,DOMESTIC AND OUTBOUND TOURISM DEMAND IN AUSTRALIA,"G Athanasopoulos, M Deng, G Li, H Song",,,0,NA,NA,bEWYMUwI8FkC
+XOnCgewAAAAJ,Working Papers 2009–Abstracts,"M Raghavan, G Athanasopoulos, P Silvapulle",,,0,NA,NA,HDshCWvjkbEC
+XOnCgewAAAAJ,Bibliografia Pedagógica,"MG HENRIQUES, EK HUNT, M LAUTZENHEISER, RJ HYNDMAN, ...",,,0,NA,NA,7PzlFSSx8tAC
+XOnCgewAAAAJ,XXXIV ISF 2007 Program,"AI Abramowitz, A Agarwala, RA Ahmed, Z Ailian, M Aiolfi, K Albertson, ...",,,0,NA,NA,qxL8FJ1GzNcC
+XOnCgewAAAAJ,Working Papers 2006–Abstracts,"G Athanasopoulos, F Vahid",,,0,NA,NA,YOwf2qJgpHMC
+XOnCgewAAAAJ,ICWS 2005,"M Adams, S Akram, P Alper, T Amagasa, S Angelov, IB Arpinar, ...",,,0,NA,NA,Tyk-4Ss8FVUC
+zB4LXcIAAAAJ,On a preferential attachment and generalized Pólya’s urn model,"A Collevecchio, C Cotar, M LiCalzi",The Annals of Applied Probability,"23 (3), 1219-1253",27,2013,14979831645371962068,IjCSPb-OGe4C
+zB4LXcIAAAAJ,On the transience of processes defined on Galton–Watson trees,A Collevecchio,The Annals of Probability,"34 (3), 870-878",26,2006,4700757015575241739,u5HHmVD_uO8C
+zB4LXcIAAAAJ,On the push&pull protocol for rumor spreading,"H Acan, A Collevecchio, A Mehrabian, N Wormald",SIAM Journal on Discrete Mathematics,"31 (2), 647-668",22,2017,5711554837196503008,UebtZRa9Y70C
+zB4LXcIAAAAJ,Limit theorems for reinforced random walks on certain trees,A Collevecchio,Probability theory and related fields,"136 (1), 81-101",19,2006,5289529257275002111,u-x6o8ySG0sC
+zB4LXcIAAAAJ,Phase transitions for dilute particle systems with Lennard-Jones potential,"A Collevecchio, W König, P Mörters, N Sidorova",Communications in Mathematical Physics,"299 (3), 603-630",14,2010,6036206886793260045,9yKSN-GCB0IC
+zB4LXcIAAAAJ,Limit theorems for vertex-reinforced jump processes on regular trees,A Collevecchio,Electronic Journal of Probability,"14, 1936-1962",13,2009,5120798749838395024,d1gkVwhDpl0C
+zB4LXcIAAAAJ,A variational formula for the free energy of an interacting many-particle system,"S Adams, A Collevecchio, W König",The Annals of Probability,"39 (2), 683-728",10,2011,1060904549102616881,2osOgNQ5qMEC
+zB4LXcIAAAAJ,The worm process for the Ising model is rapidly mixing,"A Collevecchio, TM Garoni, T Hyndman, D Tokarev",Journal of Statistical Physics,"164 (5), 1082-1102",7,2016,17739585896841772036,5nxA0vEk-isC
+zB4LXcIAAAAJ,Existence and regularity of solutions in nonlinear wave equations,"G Chen, Y Shen",arXiv preprint arXiv:,:1409.4402,6,2014,12941528661863964458,roLk4NBRz8UC
+zB4LXcIAAAAJ,Longest paths in random Apollonian networks and largest r-ary subtrees of random d-ary recursive trees,"A Collevecchio, A Mehrabian, N Wormald",Journal of Applied Probability,"53 (3), 846-856",3,2016,13020414863970198825,_FxGoFyzp5QC
+zB4LXcIAAAAJ,On the speed of once-reinforced biased random walk on trees,"A Collevecchio, M Holmes, D Kious",Electronic Journal of Probability,23,2,2018,4877214150305795167,Zph67rFs4hoC
+zB4LXcIAAAAJ,On the push&pull protocol for rumour spreading,"H Acan, A Collevecchio, A Mehrabian, N Wormald",Extended Abstracts Summer,"2015, 3-10",2,2017,6568111968868611774,YOwf2qJgpHMC
+zB4LXcIAAAAJ,The probability of nontrivial common knowledge,"A Collevecchio, M LiCalzi",Games and Economic Behavior,"76 (2), 556-570",2,2012,1798463237779688269,qjMakFHDy7sC
+zB4LXcIAAAAJ,Limit theorems for vertex-reinforced jump processes on certain trees,A Collevecchio,,,2,2009,12845354829063885638,LkGwnXOMwfcC
+zB4LXcIAAAAJ,The branching-ruin number and the critical parameter of once-reinforced random walk on trees,"A Collevecchio, D Kious, V Sidoravicius",arXiv preprint arXiv:,:1710.00567,1,2017,16524043941857012367,qxL8FJ1GzNcC
+zB4LXcIAAAAJ,General random walk in a random environment defined on Galton–Watson trees,"AD Barbour, A Collevecchio","Annales de l'Institut Henri Poincaré, Probabilités et Statistiques",53 (4 …,1,2017,14543200913107594659,ufrVoPGSRksC
+zB4LXcIAAAAJ,Bootstrap random walks,"A Collevecchio, K Hamza, M Shi",Stochastic Processes and their Applications,"126 (6), 1744-1760",1,2016,17020343625584977742,0EnyYjriUFMC
+zB4LXcIAAAAJ,Limit theorems for reinforced random walks on trees,A Collevecchio,,,1,2004,4201669700369268039,UeHWp8X0CEIC
+zB4LXcIAAAAJ,Invariance principle for biased bootstrap random walks,"A Collevecchio, K Hamza, Y Liu",Stochastic Processes and their Applications,,0,2018,NA,aqlVkmm33-oC
+zB4LXcIAAAAJ,A note on recurrence of the Vertex reinforced jump process and fractional moments localization,"A Collevecchio, X Zeng",arXiv preprint arXiv:,:1804.02739,0,2018,NA,Wp0gIr-vW9MC
+zB4LXcIAAAAJ,On the Coupling Time of the Heat-Bath Process for the Fortuin–Kasteleyn Random–Cluster Model,"A Collevecchio, EM Elçi, TM Garoni, M Weigel",Journal of Statistical Physics,"170 (1), 22-61",0,2018,NA,_kc_bZDykSQC
+zB4LXcIAAAAJ,One-dimensional long-range diffusion-limited aggregation III–The limit aggregate........................ G. Amir 1513–1527 BSDEs with diffusion constraint and viscous Hamilton …,"A Cosso, H Pham, H Xing, M Callaway, TS Doan, JSW Lamb, ...",ANNALES DE L’INSTITUT HENRI POINCARÉ PROBABILITÉS ET STATISTIQUES,53 (4 …,0,2017,NA,4DMP91E08xMC
+zB4LXcIAAAAJ,On the speed and spectrum of mean-field random walks among random conductances,"A Collevecchio, P Jung, G Markowsky",arXiv preprint arXiv:,:1702.04087,0,2017,NA,ULOm3_A8WrAC
+zB4LXcIAAAAJ,Attraction properties for general urn processes and applications to a class of interacting reinforced particle systems,"J Akahori, A Collevecchio, T Garoni, K Hamza",arXiv preprint arXiv:,:1602.05677,0,2016,NA,MXK_kJrjxJIC
+zB4LXcIAAAAJ,The worm algorithm for the Ising model is rapidly mixing,"A Collevecchio, TM Garoni, T Hyndman, D Tokarev",arXiv preprint arXiv:,:1409.4484,0,2014,NA,Se3iqnhoufwC
+zB4LXcIAAAAJ,A variational formula for the free energy of an interacting many-particle system,"A Collevecchio, W Koenig",,,0,2012,NA,8k81kl-MbHgC
+zB4LXcIAAAAJ,The Probability of Nontrivial Common Knowledge,"M LiCalzi, A Collevecchio",,,0,2012,NA,Tyk-4Ss8FVUC
+zB4LXcIAAAAJ,Bounds on the speed and on regeneration times for certain processes on regular trees,"A Collevecchio, T Schmitz",The Annals of Applied Probability,"21 (3), 1073-1101",0,2011,NA,zYLM7Y9cAGgC
+zB4LXcIAAAAJ,http://opus. bath. ac. uk,"A Collevecchio, W Konig, P Morters, N Sidorova",,,0,NA,NA,M3ejUd6NZC8C
+zB4LXcIAAAAJ,Å Ü¹ÈÐ Ò ¹ÁÒ× Ø ØÙØ,"A Collevecchio, T Schmitz",,,0,NA,NA,4TOpqqG69KYC
+zB4LXcIAAAAJ,THE ANNALS,"TM LIGGETT, P BAXENDALE, Y MISHURA, E VALKEILA, M DEKKING, ...",,,0,NA,NA,KlAtU1dfN6UC
