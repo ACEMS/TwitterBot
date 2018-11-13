@@ -7,7 +7,8 @@ library(stringr)
 loadNamespace("scholar")
 
 ACEMS_people <-
-  googlesheets4::read_sheet(ss = "https://docs.google.com/spreadsheets/d/1g1HP35bvlaOdDmx5zvDkI2e1diHOePkzgQPaEqmGnLk/edit?usp=sharing")
+  googlesheets4::read_sheet(ss = "https://docs.google.com/spreadsheets/d/1g1HP35bvlaOdDmx5zvDkI2e1diHOePkzgQPaEqmGnLk/edit?usp=sharing") %>%
+  filter(Given != "Thiyanga")
 
 GoogleIDs <-
   ACEMS_people %>% select(`Google Scholar ID`) %>% filter(stringr::str_detect(`Google Scholar ID`, "AAAAJ")) %>%
@@ -17,4 +18,38 @@ GoogleIDs <-
   ungroup() %>%
   select(scholarID)
 
-Publication_list <- GoogleIDs[1:5,] %>% group_by(scholarID) %>% do(scholar::get_publications(.$scholarID))
+new_func <- function(...){return(scholar::get_publications(..., flush = TRUE))}
+
+max_n <- ceiling(dim(GoogleIDs)[1])
+
+Pubs_df <- NULL
+
+i = 1
+condition <- TRUE
+errored <- FALSE
+
+while(condition){
+
+  Pubs <- try(GoogleIDs[i,] %>% do(new_func(.$scholarID, pagesize = 1, cstart = 0, cstop = 0, sortby = "year")))
+  
+  R.cache::clearCache(prompt = FALSE)
+  
+  if(i == max_n){
+    condition <- FALSE
+  }
+  
+  i = i + 1
+  
+  if(class(Pubs) == "try-error"){
+    if(errored){
+      Sys.sleep(1800)
+      i = i - 1
+    }
+    errored <- TRUE
+    next
+  } else {
+    Pubs_df <- rbind(Pubs, Pubs_df)
+    print(i)
+  }
+}
+
