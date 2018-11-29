@@ -20,6 +20,7 @@ GoogleIDs <-
 
 new_func <- function(...){return(scholar::get_publications(..., flush = TRUE))}
 
+#max_n <- 6
 max_n <- ceiling(dim(GoogleIDs)[1])
 
 Pubs_df <- NULL
@@ -52,4 +53,19 @@ while(condition){
     print(i)
   }
 }
+
+if(file.exists("pub.RData")){
+
+  load("pub.RData")
+  old_df <- new_df
+  new_df <- Pubs_df
+  
+  write.csv(dplyr::setdiff(new_df, old_df), file = "setdiff.csv")
+  
+  new_df <- union(new_df, old_df)
+} else {
+  new_df <- Pubs_df
+}
+  
+save(new_df, file = "pub.RData")
 
